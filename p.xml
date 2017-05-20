@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
-<?xml-model href="huonschema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="Huon_Customized_Schema_test.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Huon d'Auvergne: a digital edition of Padua Biblioteca del Seminario
-                    Vescovile MS 32 </title>
+                <title>Padua Biblioteca del Seminario Vescovile MS 32 </title>
                 <title type="short">Padua MS 32</title>
                 <editor xml:id="SPM">Stephen P. McCormick</editor>
                 <sponsor>
@@ -202,6 +200,8 @@
         <body>
             <lg type="laisse" n="1">
                 <head>Laisse 1</head>
+                <l>(manuscript acephalous)</l>
+                <l>[...]</l>
                 <l n="1"><gap reason="missing folios" quantity="2"/><milestone n="1R" unit="fol."/>E
                     perçò era Ugo d’Alvernia sevrie;</l>
                 <l n="2">E pluy de tre any stete in la çitie</l>
@@ -229,7 +229,7 @@
                         >er</ex> Dio onipotant,</l>
                 <l n="20">Si ve dirò un gran tradimant,</l>
                 <l n="21">Che fè Sufia, a chi Dio <choice>
-                        <sic>lo cuor Dio</sic>
+                        <sic>lo cuor <hi rend="red-corr">Dio</hi></sic>
                         <corr cert="medium" resp="#SPM">lo cuor </corr>
                     </choice>crevant;<note xml:id="p21"/></l>
                 <l n="22">Tal cossa comete per le men esiant</l>
@@ -422,7 +422,7 @@
                     angossosa:</l>
                 <l n="173">“Vu avé lo costume de la salvaça lova:</l>
                 <l n="174">Quando vien el messe de maço ch’ela ss’enamora,</l>
-                <l n="175">Ben <num>.XX.</num> e <num>.XXX.</num> li va drié alla coa.<note
+                <l n="175">Ben <num rend="smallcaps">.XX.</num> e <num rend="smallcaps">.XXX.</num> li va drié alla coa.<note
                         xml:id="p175"/></l>
                 <l n="176">Tuto lo dì p<ex rend="italic">er</ex> lo boscaço e per la stobla,</l>
                 <l n="177"><choice>
@@ -6389,7 +6389,8 @@
                 <l n="4546">"<hi rend="red-initial">B</hi>evi de questo vin," dixe colui che·l
                     portà.</l>
                 <l n="4547">Ello lo prexe, ver Guielmo guardà,</l>
-                <l n="4548"><choice><sic>Seguramente puo lo signa, e questo dix'elo alora</sic>
+                <l n="4548"><choice>
+                        <sic>Seguramente puo lo signa, e questo dix'elo alora</sic>
                         <corr cert="medium" resp="#SPM">"Seguramente," <ex rend="brackets">e questo
                                 dix'elo alora, puo lo signà</ex></corr>
                     </choice><note xml:id="p4548"/>,</l>
@@ -6406,7 +6407,10 @@
                 <l n="4556">L'alta meraveia ch'el gran sier mostrerà,</l>
                 <l n="4557">Quando la terena gloria definerà,</l>
                 <l n="4558">Alpi e monti tuti in cenere vegnerà,</l>
-                <l n="4559">Li corpi di <choice><sic>mo<ex rend="italic">r</ex>neti</sic><corr cert="medium" resp="#SPM">mo<ex rend="brackets">r</ex>ti</corr></choice><note xml:id="p4559"/> da tre millia ani in çà</l>
+                <l n="4559">Li corpi di <choice>
+                        <sic>mo<ex rend="italic">r</ex>neti</sic>
+                        <corr cert="medium" resp="#SPM">mo<ex rend="brackets">r</ex>ti</corr>
+                    </choice><note xml:id="p4559"/> da tre millia ani in çà</l>
                 <l n="4560">Susiterà, tal como elli su era,</l>
                 <l n="4561">L'anema spauroxa so vaxeli inplirà,</l>
                 <l n="4562">Po anderà o' se sentinçierà</l>
@@ -7155,7 +7159,8 @@
                 <l n="5055"><persName type="epic"><hi rend="blue-initial">G</hi>iborga</persName> la
                     raina à <persName type="epic">G<ex rend="italic">uielmo</ex></persName>
                     <choice>
-                        <sic>vçu</sic><corr cert="medium" resp="#SPM">v<ex rend="brackets">e</ex>çu</corr>
+                        <sic>vçu</sic>
+                        <corr cert="medium" resp="#SPM">v<ex rend="brackets">e</ex>çu</corr>
                     </choice><note xml:id="p5055"/>;</l>
                 <l n="5056">Quando ella lo cognosse, meraveia fu;</l>
                 <l n="5057">Ela lo apellà p<ex rend="italic">er</ex> amigo e p<ex rend="italic"
