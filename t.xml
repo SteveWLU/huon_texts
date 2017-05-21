@@ -81,7 +81,7 @@
                     <head type="msHeading">
                         <title xml:lang="FI">Huon d'Auvergne, Turin, Biblioteca nazionale, N III
                             19</title>
-                        <origPlace cert="low">Padua</origPlace>
+                        <origPlace cert="low">Turin</origPlace>
                         <origDate cert="medium" evidence="internal">s1441 included in final lines</origDate>
                         <note>Edition prepared by Leslie Zarker Morgan. Basic praxis inserted
                             here.</note>
@@ -105,7 +105,7 @@
                                 <support>
                                     <p>Paper</p>
                                 </support>
-                                <extent>Insert manuscript folio count <dimensions scope="all"
+                                <extent>183<dimensions scope="all"
                                         type="leaves" unit="in">
                                         <height>29.5 cm</height>
                                         <width>22 cm</width>
@@ -115,7 +115,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1">
-                                    <p>In single columns</p>
+                                    <p>In single column</p>
                                 </layout>
                             </layoutDesc>
                         </objectDesc>
@@ -123,7 +123,7 @@
                             <p>Written in one hand</p>
                         </handDesc>
                         <decoDesc>
-                            <p>Text written in laisses with colored initials alternating blue and red; illumination program throughout, though badly damaged in 1904 Turin library fire.</p>
+                            <p>Text written in laisses; illumination program throughout, though badly damaged in 1904 Turin library fire.</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -225,7 +225,7 @@
                 <l n="42">A torto il tole altruy l'avere [et] altruy el des[er]ta,</l>
                 <l n="43">et molte done à vergognà et hodiate,</l>
                 <l n="44">et perzò non è miga da la zente agabà,</l>
-                <l n="45">anzo li era la zente d'el à contrà.</l>
+                <l n="45">anzo li era la zente d'el acontrà.</l>
                 <l n="46">Laisse 3 Ora fate paze et atendite, signore, </l>
                 <l n="47">de Carlo Martelo che fo y[m]peradore,</l>
                 <l n="48">che y[n] suo tempo conquistò tanto onore;</l>
@@ -1150,7 +1150,7 @@
                 <l n="965">El dize al pelegrỳ: "Mio amicho e mio druto,</l>
                 <l n="966">de zò che v'agradise manzate al nome de Yh[es]ù."</l>
                 <l n="967">Alora li segna lo [con]te la vianda de sopre.</l>
-                <l n="968">Quando zò vite lo diaulo sofrire no[n] pò piùe:</l>
+                <l n="968">Quando zò vite lo diavlo sofrire no[n] pò piùe:</l>
                 <l n="969">(960) la tavola e la vianda e la carne caregà el fo,</l>
                 <l n="970">portò∙la en aira en alto, per una fenestra y[n]sia</l>
                 <l n="971">che niente dela vianda no[n] spandea.</l>
@@ -2603,7 +2603,7 @@
                 <l n="2411">El è omo desperà, non cura de soa vita.</l>
                 <l n="2412">Zà l'avite vedù i[n] tornire [et] i[n] bataia;</l>
                 <l n="2413">e cossỳ i[n] suo vivre, soa vita li è a noia.</l>
-                <l n="2414">El va a querire el diaulo; trovare porà pezò</l>
+                <l n="2414">El va a querire el diavlo; trovare porà pezò</l>
                 <l n="2415">(2395) al suo gran dalmazo, non pasarà el meso, </l>
                 <l n="2416">a luy non atendemo, anze tornemo i[n]dreto:</l>
                 <l n="2417">dentro Ierosalemo donda sono quily de nostra leze.</l>
@@ -3120,11 +3120,11 @@
                 <l n="2927">non darà tormento a quily chi pasano de quà.</l>
                 <l n="2928">Se questo lion è salvazo, nulo sembiante no[n] fa;</l>
                 <l n="2929">(2915) da posa che i[n]tray quỳ dentro, che gran pezo è zà,</l>
-                <l n="2930">non vite zamay con y ochy si gran diaulo [con] quelo ch'è là.</l>
+                <l n="2930">non vite zamay con y ochy si gran diavlo [con] quelo ch'è là.</l>
                 <l n="2931">Se più i[n] poso trovare, tute le [con]quistarò;</l>
                 <l n="2932">zà non pò esere salvo ch'el porta mio coro e∙l desedra."</l>
                 <l n="2933">Dize lo [con]te, "Molto dota de my e de vuy; a ve, che serà?</l>
-                <l n="2934">(2920) Questo diaulo siè vento. Vedite lo lion delà?</l>
+                <l n="2934">(2920) Questo diavlo siè vento. Vedite lo lion delà?</l>
                 <l n="2935">El è molto ferite del dalmazo che fate li à.</l>
                 <l n="2936">Vedite como el s'avolta p[er] dezà e p[er] delà ?</l>
                 <l n="2937">Lo pelo à tuto brusà [et] la carne scorzà li à.</l>
@@ -3385,7 +3385,7 @@
                 <l n="3191">(3175) che la carne e le yosse tuta ly frapa.</l>
                 <l n="3192">Al morire ch'el feze, un tal crido el buta</l>
                 <l n="3193">che tuta la montagna resona.</l>
-                <l n="3194">"A, Dyo," dise le donzele, "che diaulo è questo, che serà?</l>
+                <l n="3194">"A, Dyo," dise le donzele, "che diavlo è questo, che serà?</l>
                 <l n="3195">(MS 50V) Nostro signore siè assaltà; eio credo che besogna 'l abia."</l>
                 <l n="3196">(3180) Lo lion olde la vose, adoncha s'eslanza;</l>
                 <l n="3197">vene a so signore, che poco demora.</l>
@@ -3420,7 +3420,7 @@
                 <l n="3226">(3210) che zosa del monte l'ano fato reversare.</l>
                 <l n="3227">Tal squaso donò quando el vene ârivare</l>
                 <l n="3228">che la montagna resona p[er] dedreto.</l>
-                <l n="3229">"Va∙tene diaulo, zoso te sey de l'aversario!"</l>
+                <l n="3229">"Va∙tene diavlo, zoso te sey de l'aversario!"</l>
                 <l n="3230">Posa loldò Dio, e comenzò·se a signare.</l>
                 <l n="3231">(3215) Laisse 122 Dize Ugon lo [con]te, "Y[n] la grota y[n]traremo</l>
                 <l n="3232">a vedere lo loco, como le cavo è longo,</l>
@@ -3460,7 +3460,7 @@
                 <l n="3266">(3250) Mé luy lo vole sego menare; y[n]n-altra parte el caminà.</l>
                 <l n="3267">Lo [con]te crede ch'el intra (e) guardarà.</l>
                 <l n="3268">Atanto lo lasò stare, a colegare se ne va.</l>
-                <l n="3269">Dio se pensò de loro, che lo diaulo trovà l'à;</l>
+                <l n="3269">Dio se pensò de loro, che lo diavlo trovà l'à;</l>
                 <l n="3270">s'el non fose l'asteneza ch'el fa</l>
                 <l n="3271">(3255) tosto poria descazire, p[er] cativo seria.</l>
                 <l n="3272">Mé Dio siè [con] loro, sovente lo chiamà</l>
@@ -3512,7 +3512,7 @@
                 <l n="3318"> p[er] grande amore quando el vene a desmostrare.</l>
                 <l n="3319">Quela croze se gitò tal spiandore</l>
                 <l n="3320">ch'el se vite avante una arcata.</l>
-                <l n="3321">(3305) Quando el diaulo vite questo, el prese a cridare,</l>
+                <l n="3321">(3305) Quando el diavlo vite questo, el prese a cridare,</l>
                 <l n="3322">"Ay, zentil omo, tra·te un poco y[n]dreto!</l>
                 <l n="3323">Quelo che tu ay y[n] man non poso guardare;</l>
                 <l n="3324">(MS 52V) vuy me faty languire [et] y[n] gran dolor stare."</l>
@@ -3525,7 +3525,7 @@
                 <l n="3331">(3315) né a mia compagnia che vedy quỳ stare.</l>
                 <l n="3332">Possa parla a my de zò che te domandaroe;</l>
                 <l n="3333">tuto a my, senza bosia, m'averỳ a desmostrare."</l>
-                <l n="3334">Dize lo diaulo, "Ora [con]ta toa volontà,</l>
+                <l n="3334">Dize lo diavlo, "Ora [con]ta toa volontà,</l>
                 <l n="3335">che te risponderò, da ché non posso altro fare."</l>
                 <l n="3336">(3320) (MS 53R) Laisse 125 Lo conte el dise, "Chi è tu [et] como à tu
                     nome?" </l>
@@ -3589,15 +3589,15 @@
                 <l n="3394">onda è bona abitazia onda me posa reparare,</l>
                 <l n="3395">senza nesun mal fare e senza y[n]pazame[n]to;</l>
                 <l n="3396">(3380) possa te'n va y[n] fondo d'abiso a stare."</l>
-                <l n="3397">Lo diaulo responde, "P[er] questa via dè andare.</l>
+                <l n="3397">Lo diavlo responde, "P[er] questa via dè andare.</l>
                 <l n="3398">Tanto n'ay quỳ sconzurà, no[n] poso quỳ più stare</l>
                 <l n="3399">de questa caverna te laso l'intra e l'y[n]sire</l>
                 <l n="3400">con tuto el predon ch'el fasea serare,</l>
                 <l n="3401">(3385) chi serava la busa p[er] denanzo donda el doveva pasare."</l>
-                <l n="3402">Se'n va el diaulo [con] gran braire e cridare.</l>
+                <l n="3402">Se'n va el diavlo [con] gran braire e cridare.</l>
                 <l n="3403">Ugon se prese molte fiade a signare;</l>
                 <l n="3404">e soa masena prese molte forte a [con]fortare.</l>
-                <l n="3405">Laisse 127 Sy tosto como lo diaulo de ly se partỳ,</l>
+                <l n="3405">Laisse 127 Sy tosto como lo diavlo de ly se partỳ,</l>
                 <l n="3406">(3390) lo lion lo sape ben, che molto lo guarda.</l>
                 <l n="3407">Amantinente i[n] la busa y[n]trava,</l>
                 <l n="3408">e vene a so signore; apreso li pedy s'acoleza;</l>
@@ -3605,7 +3605,7 @@
                 <l n="3410">Lo [con]te lo grata, possa si se pensa,</l>
                 <l n="3411">(3395) "Questa bestia siè pur savia; più zorny lo mostra</l>
                 <l n="3412">mé zà no·l conosco; ora molto el è ordenà</l>
-                <l n="3413">p[er] lo diaulo chi steva, y[n] quelo loco abitava.</l>
+                <l n="3413">p[er] lo diavlo chi steva, y[n] quelo loco abitava.</l>
                 <l n="3414">Lo loco era pericoloso ben nuy siemo arivà.</l>
                 <l n="3415">Ora andemo y[n]nanzo, vederemo delà;</l>
                 <l n="3416">(3400) posa lo miore party piaremo."</l>
@@ -3833,7 +3833,7 @@
                 <l n="3637">el santo batesimo prendite al nome de Dio verase,</l>
                 <l n="3638">Macometo e Trivigante del tuto renegate.</l>
                 <l n="3639">Bona mason del tuto ve mostraroe;</l>
-                <l n="3640">sopra vuy lo diaulo non avrà posanza.</l>
+                <l n="3640">sopra vuy lo diavlo non avrà posanza.</l>
                 <l n="3641">(3625) Vostre anime serano salve se questo fate."</l>
                 <l n="3642">A quela parola l'ano molto guardato.</l>
                 <l n="3643">Dize lo [con]te, "Che avite pur pensato?</l>
@@ -5252,7 +5252,7 @@
                 <l n="5053">(5035) che alcuna fiata se pò tanto fare repentime[n]to. </l>
                 <l n="5054">A done no[n] s'avene avere tropo argoio;</l>
                 <l n="5055">e coloro che li crede fano molto gra[n] falanza!</l>
-                <l n="5056">Dona, el è el diaulo che lo mondo mete y[n] balanza."</l>
+                <l n="5056">Dona, el è el diavlo che lo mondo mete y[n] balanza."</l>
                 <l n="5057">"Sere," dize Ynida, "bona è la predichanza.</l>
                 <l n="5058">(5040) Se lo coro dedentro li fesse arecordanza </l>
                 <l n="5059">da voler∙sse pentire siè granda la deferenzia."</l>
@@ -5972,7 +5972,7 @@
                 <l n="5772">a quelo Dio, chi à tuto el mondo e nuy y[n] balia,</l>
                 <l n="5773">(5755) ch'el m'envie là donda el mio coro desidra;</l>
                 <l n="5774">no[n] p[er]tanto me tegno ben a stoltia,</l>
-                <l n="5775">quando vay querando lo regno del diaulo,</l>
+                <l n="5775">quando vay querando lo regno del diavlo,</l>
                 <l n="5776">sy più vescusso che non fe' Gieromia </l>
                 <l n="5777">non tornarò zamay a mia segnoria,</l>
                 <l n="5778">(5760) overo morirò p[er] fornire mia anbasata,</l>
@@ -6115,7 +6115,7 @@
                 <l n="5915">en penedenzia non vite stare tanto homo mortale;</l>
                 <l n="5916">e non fo Galasso, chy [con]quiste lo San Gradalle,</l>
                 <l n="5917">come costuy, p[er] Dio lo celestiale,</l>
-                <l n="5918">per atrovare lo diaulo y[n]fernale,</l>
+                <l n="5918">per atrovare lo diavlo y[n]fernale,</l>
                 <l n="5919">(5900) che possa lo trovà, Dio li lage atrovare.</l>
                 <l n="5920">Laisse 241 Quando lo [con]te avè beuto e manzato, </l>
                 <l n="5921">zà era lo sole abasato.</l>
@@ -6372,7 +6372,7 @@
                 <l n="6172">Venuto li vene una volta y[n] pensamento</l>
                 <l n="6173">che davante luy mi feze sopra y santy zurare</l>
                 <l n="6174">che eio zirò a l'inferno per trovare</l>
-                <l n="6175">(6155) lo gran diaulo. Me coventa domandare,</l>
+                <l n="6175">(6155) lo gran diavlo. Me coventa domandare,</l>
                 <l n="6176">se al mio signore se vole y[n]clinare,</l>
                 <l n="6177">e ch'el li mande el suo trabudo p[er] vero. </l>
                 <l n="6178">Se no[n], che luy li jura guerezarlo;</l>
@@ -6460,7 +6460,7 @@
                 <l n="6260">(6240) d'amare ley senza nula tradisone. </l>
                 <l n="6261">Per mio defeto n'averà nula hoquesione</l>
                 <l n="6262">de fare a my nula no m'à ben,</l>
-                <l n="6263">che del diaulo non voio adoprare so s[er]mon.</l>
+                <l n="6263">che del diavlo non voio adoprare so s[er]mon.</l>
                 <l n="6264">Mé ben viroy a la vostra masone</l>
                 <l n="6265">(6245) per vedere la vostra dona e pa(r)lare a vostry barone,</l>
                 <l n="6266">zà per soa carne né per soa celezione</l>
@@ -6508,7 +6508,7 @@
                 <l n="6307">se ora non sazò tenire la costumanza</l>
                 <l n="6308">de chastità per soa grande astinanzia,</l>
                 <l n="6309">zà nesun pechadore no[n] vene tal meschia[n]za.</l>
-                <l n="6310">(6290) Ma el diaulo adopra la soa posanza</l>
+                <l n="6310">(6290) Ma el diavlo adopra la soa posanza</l>
                 <l n="6311">de condure l'omo a malvase sentenzia.</l>
                 <l n="6312">Ora li donò Dio forteza e temperanza;</l>
                 <l n="6313">mestero li averoe, zoè senza falanza.</l>
@@ -8239,7 +8239,7 @@
                 <l n="8031">Altry remesy y[n]∙ n aira e altry y[n] tera, e chy più alto, più
                     baso,</l>
                 <l n="8032"> e altry y[n]n-abisso e travaia la lor vita."</l>
-                <l n="8033">Laisse 323"Vasal," dize lo diaulo, "nuy che quỳ siamo</l>
+                <l n="8033">Laisse 323"Vasal," dize lo diavlo, "nuy che quỳ siamo</l>
                 <l n="8034">a celo and(i)amo, né ben né mal no[n] fazemo.</l>
                 <l n="8035">(8010) Ma de nuy sièra la male, e nostra, y[n]tenzione</l>
                 <l n="8036">de tenere sempre [con] quily chy venzirano.</l>
@@ -8951,7 +8951,7 @@
                 <l n="8738">che elo zamay no[n] se parta da quel locho </l>
                 <l n="8739">fina a quelo zorno che Dio darà la sentezia,</l>
                 <l n="8740">desmostrarà la piaga e ly saty chiody</l>
-                <l n="8741">e starà quel diaulo dedentro (y[n]) quele prede</l>
+                <l n="8741">e starà quel diavlo dedentro (y[n]) quele prede</l>
                 <l n="8742">(8915) e lo pilastro fu zà a sostenire quel re</l>
                 <l n="8743">che Charlomaino me∙l comandoe."</l>
                 <l n="8744">(MS 132V) Laisse 348 Quando tal parola y[n]tende lo conte,</l>
@@ -9084,7 +9084,7 @@
                 <l n="8871">(8835) e lo conte d'Alvergna presse avante luy a guardare. </l>
                 <l n="8872">Vite un gra[n] muchio de prede, donda el dovea pasare,</l>
                 <l n="8873">coperta de zonche, che molto li fazea y[n]pazo,</l>
-                <l n="8874">che un vivo diaulo avea fato semenare.</l>
+                <l n="8874">che un vivo diavlo avea fato semenare.</l>
                 <l n="8875">Forty sono e aguzy, cosỳ como quadrely d'azalo, </l>
                 <l n="8876">(8840) mé santo Guielmo, senza y[n]zignero,</l>
                 <l n="8877">fazea tuty ly zonchy tuty areversare,</l>
@@ -9194,7 +9194,7 @@
                 <l n="8981">che y[n] toa via onda yo sono ancora me piaze.</l>
                 <l n="8982">(8945) Feze meravilia el bon brando vianese</l>
                 <l n="8983">e tova vivanda arivà y[n] ly paiesse</l>
-                <l n="8984">quelo diaulo chy feze tal beffa</l>
+                <l n="8984">quelo diavlo chy feze tal beffa</l>
                 <l n="8985">ora che tu sey y[n] quela parte</l>
                 <l n="8986">de sperity perduty zà dotar non dovisse</l>
                 <l n="8987">(8950) a to piasere mò ne manza qua[n]to tu vole."</l>
@@ -10213,7 +10213,7 @@
                 <l n="9998">e∙l verasse Dio no[n] conoseno lor ponto.</l>
                 <l n="9999">(9965) Tanto se fidono y[n] lor sienzia che ly tornò y[n] falo;</l>
                 <l n="10000">y[n] questa scurità zaseno et y[n] questo vasso.</l>
-                <l n="10001">Quỳ demora un diaulo chi à nome Flagiras, </l>
+                <l n="10001">Quỳ demora un diavlo chi à nome Flagiras, </l>
                 <l n="10002">et Ayasse e Bruger et altry satanasse</l>
                 <l n="10003">chy deseseno da celle y[n] profondo d'abisso. </l>
                 <l n="10004">(9970) La pena de costoro no[n] è miga solazo:</l>
@@ -10253,7 +10253,7 @@
                 <l n="10038">de gran guaie li lor fano pluro.</l>
                 <l n="10039">Quelo era dolore sopra dolore y[n]trego, </l>
                 <l n="10040">(10005) e tutavia va anime là amasarse</l>
-                <l n="10041">ch'el diaulo li encalza a frota e miara:</l>
+                <l n="10041">ch'el diavlo li encalza a frota e miara:</l>
                 <l n="10042">a lo lago se zetano com falcon da rivera,</l>
                 <l n="10043">de tute le lengue sono y[n] quel locho al parlare</l>
                 <l n="10044">molti n'olde y[n] la lengua d'Alvergna.</l>
@@ -10471,7 +10471,7 @@
                 <l n="10256">.VIIIIo. zorny siè che manzà no[n]n-ò, né beuto;</l>
                 <l n="10257">volontera me acivaria se yo trovase nula de bon."</l>
                 <l n="10258">Quando santo Guielmo y[n]tende la parola d'Ungone, </l>
-                <l n="10259">dize al diaulo chi à la pelegrina fazon:</l>
+                <l n="10259">dize al diavlo chi à la pelegrina fazon:</l>
                 <l n="10260">(10225) "Va tosto, e porta lo descho chi è redondo</l>
                 <l n="10261">ond'à la vianda che vuy portasy de soa masone,</l>
                 <l n="10262">(MS 158R) el pan, el vin e l'altra vianda</l>
@@ -10514,7 +10514,7 @@
                 <l n="10299">pocho demora ch[e] el fo y[n]dormenzà.</l>
                 <l n="10300">(10265) Quando santo Guielmo cosỳ l'avè avisato, </l>
                 <l n="10301">alora luy lo segna, a Dio l'avè acomandà,</l>
-                <l n="10302">e dize al diaulo che la vianda avea portà:</l>
+                <l n="10302">e dize al diavlo che la vianda avea portà:</l>
                 <l n="10303">"Va tosto," diz elo, "da parte de lo sovra[n] Dio, </l>
                 <l n="10304">porta costuy tosto a salvamento,</l>
                 <l n="10305">(10270) como tute queste cosse che lỳ sono aparechiate. </l>
@@ -10970,7 +10970,7 @@
                 <l n="10752">(10710) E luy y[n]viday a manzare y[n] santa carità;</l>
                 <l n="10753">la tavola signay al nome de Santa Tarnità.</l>
                 <l n="10754">Lo [com]pagno che avea apreso a my asetà,</l>
-                <l n="10755">zò fo lo diaulo che y[n]ganar me credea,</l>
+                <l n="10755">zò fo lo diavlo che y[n]ganar me credea,</l>
                 <l n="10756">ma ello no[n] pode, che Adio molto m'aidava.</l>
                 <l n="10757">(10715) Lo segnare no[n] pode guardare;</l>
                 <l n="10758">com tuta la tavola el se partỳ adesso,</l>
