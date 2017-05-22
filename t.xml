@@ -7,7 +7,7 @@
                 <title>Turin, Biblioteca nazionale, N III
                     19</title>
                 <title type="short">Turin MS N III 19</title>
-                <editor xml:id="SPM">Stephen P. McCormick</editor>
+                <editor xml:id="LZM">Leslie Zarker Morgan</editor>
                 <sponsor>
                     <address>
                         <addrLine>Washington and Lee University</addrLine>
@@ -19,7 +19,7 @@
                 <principal>Stephen P. McCormick</principal>
                 <!-- Should Leslie and Shira be included, or is the principal for the P manuscript only? -->
                 <respStmt>
-                    <name xml:id="LZM">Leslie Zarker Morgan</name>
+                    <name>Leslie Zarker Morgan</name>
                     <resp>edition</resp>
                     <resp>transcription</resp>
                     <resp>TEI coding and development</resp>
@@ -209,7 +209,7 @@
                 <l n="17">quando un suo servo chaza de soa casa,</l>
                 <l n="18">e se l'envia a querire trabuto a Luzifero</l>
                 <l n="19">et a cerchare<note xml:id="t19"/> la casa y[n]fernale,</l>
-                <l n="20">solo per avere Ynida dal corpo belo.</l>
+                <l n="20"><seg resp="Rajna">solo per avere</seg> Ynida dal corpo belo.</l>
             </lg>
             <lg type="laisse" n="2">
                 <head>Laisse 2</head>
