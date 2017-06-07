@@ -385,9 +385,9 @@
                         >er</ex> Dio or te repent!</l>
                 <l n="147">Torna a Dio lo Pare onipotent</l>
                 <l n="148">Ch’el ve guardi da questo maltalent;</l>
-                <l n="149">Lo falso diavollo si' ve tien mallamant</l>
+                <l n="149">Lo falso diavollo si ve tien mallamant</l>
                 <l n="150">E si ve vuol condur al fuogo ardent.”</l>
-                <l n="151">Quella responde, “Vuy si bem pentemt</l>
+                <l n="151">Quella responde, “Vuy si' bem pentemt</l>
                 <l n="152">P<ex rend="italic">er</ex> predicar in·lla cativa çant;</l>
                 <l n="153">A mi non val lo valor d’un bessant,</l>
                 <l n="154">De vostro sermonar non darave niant!</l>
@@ -456,7 +456,7 @@
                 <l n="194">Altro ch’el mio voler si ne comando e prie!</l>
                 <l n="195">E se vuy aver dito altro ni parlie,</l>
                 <l n="196">Io ve farò ardere e la polvere al vento çitie."</l>
-                <l n="197">"Non farò," diss’ela, "p<ex rend="italic">er</ex> la fé che vos die."</l>
+                <l n="197">"Non farò," diss’ela, "p<ex rend="italic">er</ex> la fe che vos die."</l>
                 <l n="198"><milestone n="5R" unit="fol."/>Disse la duchessa, “Vuy farì <choice>
                         <sic>cortexiae</sic>
                         <corr cert="high" resp="#scribe">cortexi<add place="inline">e</add></corr>
@@ -1289,7 +1289,7 @@
                 <l n="812">"Fiolla," diss'ello, "no me·l çelle mie,</l>
                 <l n="813">De Ugo d'Avernia fo si granda la stoltie?"</l>
                 <l n="814">E quella responde, no tarda ni mie,</l>
-                <l n="815">“Pare,” dix'ella, “p<ex rend="italic">er</ex> la fé ch'io ve die,</l>
+                <l n="815">“Pare,” dix'ella, “p<ex rend="italic">er</ex> la fe ch'io ve die,</l>
                 <l n="816">Si ve dirò lo vero, non ò talant de mentie.</l>
                 <l n="817"><milestone n="17V" unit="fol."/>San<ex rend="italic">guin</ex> amava Ugo
                     plui d'algun ho<ex rend="italic">m</ex> che sie.</l>
@@ -1437,7 +1437,7 @@
                 <l n="940">"<hi rend="red-initial">C</hi>onpagno<ex rend="italic">n</ex> Sangui<ex
                         rend="italic">n</ex>," disse Ugo lo valant,</l>
                 <l n="941"><milestone n="20R" unit="fol."/>"D'alguna coussa no ve temé niant;</l>
-                <l n="942">Io si ve çuro i<ex rend="italic">n</ex> fé e in sagrament</l>
+                <l n="942">Io si ve çuro i<ex rend="italic">n</ex> fe e in sagrament</l>
                 <l n="943">De non falsarve a tuto el mio vivant,</l>
                 <l n="944">Ni mai non fi ni no me vene a talant.</l>
                 <l n="945">Ma·sse vui me intendì, dirò lo co<ex rend="italic">n</ex>vinant,</l>
@@ -2995,7 +2995,7 @@
                 <l n="2118">E quelli li dixevano, "Amigo, torna a chà,</l>
                 <l n="2119">Tal cossa tu cerchi ch<ex rend="italic">e</ex> trovar non porà."</l>
                 <l n="2120">Lo conte d'Avernia fortemente se smarià</l>
-                <l n="2121">Mo al so ssignor tanta fé el à</l>
+                <l n="2121">Mo al so ssignor tanta fe el à</l>
                 <l n="2122">Ch'el no tronerave<note xml:id="p2122"/> indrié s'el trabuto non à.</l>
                 <l n="2123">Alora caminà, a Dio se comandà.</l>
             </lg>
@@ -3707,7 +3707,7 @@
                 <l n="2642">A lion, a orssi serà molto de plaisirs,</l>
                 <l n="2643">Unde io priego Dio e santa genitris</l>
                 <l n="2644">Che intranbi ve vardi che no siè olcis.</l>
-                <l n="2645">P<ex rend="italic">er</ex> la fé chi don al santissimo Espris,</l>
+                <l n="2645">P<ex rend="italic">er</ex> la fe chi don al santissimo Espris,</l>
                 <l n="2646">De tal pietade m'à·llo cuor i<ex rend="italic">n</ex>tepris,</l>
                 <l n="2647">Che dolente·sson quando çà venis.</l>
                 <l n="2648">Ugo, bel frere, U<ex rend="italic">go</ex>, bel dolçe amis,</l>
@@ -4477,6 +4477,7 @@
                 <l n="3183">Donarli lo·sso amor, anci li contralie,</l>
                 <l n="3184">Ancora l'apellà e dolcemente lo prie.</l>
                 <l n="3185">"Amigo," diss'ela, "çà m'à tu la fé plenie</l>
+                <!-- LZM - fè vs. fé ? -->
                 <l n="3186">Che tu faré tuto mia comandie;</l>
                 <l n="3187"><choice>
                         <sic>Ehe</sic>
@@ -5622,7 +5623,7 @@
                 <l n="3998">Quando lo receve lo più p<ex rend="italic">ro</ex>simo parent,</l>
                 <l n="3999">Tuto cussì lo conte chi era stà dolant</l>
                 <l n="4000">Se confortà, po che olde el bun sant,</l>
-                <l n="4001">Con bona fé e no pensandament.</l>
+                <l n="4001">Con bona fe e no pensandament.</l>
                 <l n="4002">P<ex rend="italic">er</ex> plui aprossiman a lui leva en estant</l>
                 <l n="4003">Davanti li suo pié s'enconochiò atant,</l>
                 <l n="4004">Baxar crete i pié, quelo fo niant,</l>
@@ -7628,7 +7629,7 @@
                 <l n="5361">Quando tu lì intrasti, fasisti gra<ex rend="italic">n</ex> peçer,<note
                         xml:id="p5361"/></l>
                 <l n="5362"><milestone n="110V" unit="fol."/>Çamay nul homo s’en tornà arer."</l>
-                <l n="5363">Responde lo conte, "La fé me fè aler</l>
+                <l n="5363">Responde lo conte, "La fe me fè aler</l>
                 <l n="5364">P<ex rend="italic">er</ex> un trabuto querir e domander</l>
                 <l n="5365">P<ex rend="italic">er</ex>
                     <persName type="epic">Carlo Martelo</persName>, lo nobele i<ex rend="italic"
@@ -7833,7 +7834,7 @@
                 <l n="5503">Çamai i<ex rend="italic">n</ex> mia vita non fui i<ex rend="italic"
                         >n</ex> sta contré."</l>
                 <l n="5504">E san G<ex rend="italic">uielmo</ex> si n'à un ris çité:</l>
-                <l n="5505">"Amigo," dix'elo, "habi to fé indrié,</l>
+                <l n="5505">"Amigo," dix'elo, "habi to fe indrié,</l>
                 <l n="5506">In lialtade estado <ex rend="italic">et</ex> es<ex rend="italic">er</ex>
                     de qui indrié;</l>
                 <l n="5507">E se de questo luogo tu seré desevré,</l>
