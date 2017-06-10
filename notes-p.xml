@@ -193,10 +193,19 @@
                 <note xml:id="p685" type="cod" resp="#SPM">Space for illumination</note>
                 <note xml:id="p713" type="edit" resp="#SPM">MS <hi rend="italic">al
                     davernia</hi></note>
+                <note xml:id="p723" type="interp" resp="#CG">Giacon "v. 722. asemblere si è evidentemente 
+                    introdotto dal verso seguente, al posto probabilmente di un aggettivo riferito 
+                    a cuor."</note>
+<!-- add identifier for Carla Giacon #CG -->
                 <note xml:id="p729" type="edit" resp="#SPM">MS <hi rend="italic">la ela
                         duchessa</hi></note>
+                <note xml:id="p737" type="ling" resp="#SPM">"affibula"; 'migrating' l; affibbiare; 
+                    metathesis at distance.</note>
                 <note xml:id="p739" type="edit" resp="#scribe">Scribal correction, <hi rend="italic"
                         >è</hi> above the line.</note>
+                <note xml:id="p741" type="interp" resp="#SPM">In these three lines, note typical 
+                    alternating present and past tenses.
+                </note>
                 <note xml:id="p755" type="edit" resp="#SPM">MS <hi rend="italic">anigo</hi>; a minim
                     is missing.</note>
                 <note xml:id="p756" type="codic" resp="#SPM">Space for illumination</note>
@@ -211,7 +220,7 @@
                     Could it be possible there are missing lines, or lines out of order?</note>
                 <note xml:id="p830" type="interp" resp="#SPM">For ll. 829-30, note alternating past
                     and present tenses. See INTRO LINK</note>
-                <!-- Link previous note to introduction. -->
+<!-- Link previous note to introduction. -->
                 <note n="40" xml:id="p852" type="edit" resp="#SPM">MS <hi rend="italic">trer a
                         travache</hi></note>
                 <note n="41" xml:id="p897" type="codic" resp="#SPM">Catchwords <hi rend="#italic">de
