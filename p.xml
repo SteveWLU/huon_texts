@@ -4195,7 +4195,7 @@ page 675, bottom line 47-49, OFr. with accusative object pronoun, "se penser"; e
                         >n</ex>ver ele trois;</l>
                 <l n="2887">Quando ello fo apresso, si tene l'arganois,</l>
                 <l n="2888">Vete la beleça di·sso vissi clari e frais,</l>
-                <!-- Note ai in frais -->
+                <!-- Note ai in frais, while oi for rest of laisse -->
                 <l n="2889">Le so robe fate alla guissa françois,</l>
                 <l n="2890">De gran meraveia <choice>
                         <sic>sebla</sic>
@@ -4275,8 +4275,9 @@ page 675, bottom line 47-49, OFr. with accusative object pronoun, "se penser"; e
                 <head>Laisse 102</head>
                 <l n="2933">"<hi rend="red-initial">C</hi>omo," disse lo conte, "bele conpagne,</l>
                 <l n="2934">Chi ve condusse in questa tera stragne</l>
-                <l n="2935"><milestone n="60V" unit="fol."/>E demoré vui i<ex rend="italic">n</ex>
+                <l n="2935"><milestone n="60V" unit="fol."/>E demoré-vui i<ex rend="italic">n</ex>
                         questa<note xml:id="p2935"/> des<ex rend="italic">er</ex>tagne?</l>
+                <!-- hyphen -->
                 <l n="2936">Vui me resenblé, sicomo li ogli m'e<ex rend="italic">n</ex>çagne,</l>
                 <l n="2937">Del bel païs che fo de Carlomaine."</l>
                 <l n="2938">E l'una dixe, "Quando tu de·<ex rend="italic">n</ex> domagne</l>
@@ -4294,6 +4295,7 @@ page 675, bottom line 47-49, OFr. with accusative object pronoun, "se penser"; e
             <lg type="laisse" n="103">
                 <head>Laisse 103</head>
                 <l n="2949"><hi rend="blue-initial">A</hi>ncora te digo, vasal, se tu viem</l>
+                <!-- MS Aancora ; make consistent with Rr and Nn elsewhere. -->
                 <l n="2950">Veder la dona che tanto è d'altre brin</l>
                 <l n="2951">No te porà saciar lo maitin.</l>
                 <l n="2952">La bela vila, le aque, e li çardin</l>
