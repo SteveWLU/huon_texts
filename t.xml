@@ -226,13 +226,10 @@
                 <l n="12"><seg>el steva en Franza un re molto crudele,</seg></l>
                 <l n="13"><seg>selonche che nostra cronicha ordenata,</seg></l>
                 <l n="14"><seg>che hognomo l'apela lo re Carlo Martelo.</seg></l>
-                <l n="15"><seg>Gran corte tenia che</seg> homo no<ex rend="italic">n</ex> la <seg
-                        resp="Rajna">vite zà tale</seg></l>
+                <l n="15"><seg>Gran corte tenia che</seg> homo no<ex rend="italic">n</ex> la <seg>vite zà tale</seg></l>
                 <!-- Footnote at the end of this line: Rajna 1v or 2 left if working from microfilm -->
-                <l n="16"><seg>che una cossa ado</seg>pra el ben com <seg resp="Rajna"
-                        >felo</seg>:</l>
-                <l n="17"><seg>quando un suo</seg> servo chaza de soa ca<seg
-                        resp="Rajna">sa</seg>,</l>
+                <l n="16"><seg>che una cossa ado</seg>pra el ben com <seg>felo</seg>:</l>
+                <l n="17"><seg>quando un suo</seg> servo chaza de soa ca<seg>sa</seg>,</l>
                 <l n="18"><seg>e se l'envia a que</seg>rire trabuto a Luzifero</l>
                 <l n="19"><seg>et a cerchare<note xml:id="t19"/> la</seg> casa
                     y<ex rend="italic">n</ex>fernale,</l>
@@ -240,13 +237,12 @@
             </lg>
             <lg type="laisse" n="2">
                 <head>Laisse 2</head>
-                <l n="21"><seg>Odite signor</seg>e, che Dio ve ben<seg resp="Rajna"
-                        >edicha</seg>,</l>
+                <l n="21"><seg>Odite signor</seg>e, che Dio ve ben<seg>edicha</seg>,</l>
                 <l n="22"><seg>bona canzo</seg>n dire ve vole del soy antesore,</l>
-                <l n="23"><seg>del fio del re Loi che</seg> Franza avea y<ex rend="italic">n</ex>
+                <l n="23"><seg>del fio del re Loi che</seg> Franza avea y<ex>n</ex>
                     ba(i)lia,</l>
                 <l n="24"><seg>che</seg> Carlo Martelo fo anomà a tuta soa vita.</l>
-                <l n="25"><seg>Quel Carlo</seg> ne fo del molte gra<ex rend="italic">n</ex> nomenanza</l>
+                <l n="25"><seg>Quel Carlo</seg> ne fo del molte gra<ex>n</ex> nomenanza</l>
                 <l n="26"><seg>de tute le tere ch</seg>e ello avea y<ex rend="italic">n</ex> soa
                     ba(i)lia,</l>
                 <l n="27"><seg>doncha non perdé</seg> zamay un sol pede</l>
