@@ -239,10 +239,10 @@
                 <head>Laisse 2</head>
                 <l n="21"><seg>Odite signor</seg>e, che Dio ve ben<seg>edicha</seg>,</l>
                 <l n="22"><seg>bona canzo</seg>n dire ve vole del soy antesore,</l>
-                <l n="23"><seg>del fio del re Loi che</seg> Franza avea y<ex>n</ex>
+                <l n="23"><seg>del fio del re Loi che</seg> Franza avea y<ex rend="italic">n</ex>
                     ba(i)lia,</l>
                 <l n="24"><seg>che</seg> Carlo Martelo fo anomà a tuta soa vita.</l>
-                <l n="25"><seg>Quel Carlo</seg> ne fo del molte gra<ex>n</ex> nomenanza</l>
+                <l n="25"><seg>Quel Carlo</seg> ne fo del molte gra<ex rend="italic">n</ex> nomenanza</l>
                 <l n="26"><seg>de tute le tere ch</seg>e ello avea y<ex rend="italic">n</ex> soa
                     ba(i)lia,</l>
                 <l n="27"><seg>doncha non perdé</seg> zamay un sol pede</l>
@@ -272,16 +272,12 @@
                 <l n="46"><seg>Ora fate paze et atendite, signore</seg>,</l>
                 <l n="47"><seg>de Carlo Martelo che fo y<ex rend="italic">m</ex>peradore</seg>,</l>
                 <l n="48"><seg>che y<ex rend="italic">n</ex> suo tempo conquistò tanto onore;</seg></l>
-                <l n="49"><seg>com più el</seg> <ex rend="italic">con</ex>quistò più fo crud<seg
-                        resp="Rajna">ele tute hore</seg>.</l>
-                <l n="50">(50)<seg>Né à re</seg> né à prinzipo né à ducha <seg
-                        resp="Rajna">né à valvasore</seg>
+                <l n="49"><seg>com più el</seg> <ex rend="italic">con</ex>quistò più fo crud<seg>ele tute hore.</seg></l>
+                <l n="50">(50)<seg>Né à re</seg> né à prinzipo né à ducha <seg>né à valvasore</seg>
                 </l>
                 <!-- Solution for alternate Rajna line numbers? <milestone ed="Rajna" n="50"/> -->
-                <l n="51"><seg>né à</seg> conte né à marchese né baron <seg
-                        resp="Rajna">dentorno</seg></l>
-                <l n="52"><seg>che</seg> no∙l s<ex rend="italic">er</ex>va per dotanza o per <seg
-                        resp="Rajna">amore</seg>.</l>
+                <l n="51"><seg>né à</seg> conte né à marchese né baron <seg>dentorno</seg></l>
+                <l n="52"><seg>che</seg> no∙l s<ex rend="italic">er</ex>va per dotanza o per <seg>amore</seg>.</l>
                 <l n="53">Al re vene talente <ex rend="italic">et</ex> y<ex rend="italic">n</ex> coro un <seg>zorno</seg></l>
                 <l n="54">del tuto vedere de soy homene lo <seg>miore</seg></l>
                 <l n="55">(55)lo quale avea più forza et più <seg>valore</seg>;</l>
@@ -321,8 +317,7 @@
                 <l n="79"><seg>per honorare la raina dal chapo biondo</seg></l>
                 <l n="80">(80) <seg>che de done dè tenire corte da nove;</seg></l>
                 <l n="81"><seg>et lo re la vole tenire de sty barone</seg>.</l>
-                <l n="82"><seg>Apresso a la festa che devis</seg>à nuy abiam<seg
-                        resp="Rajna">o</seg></l>
+                <l n="82"><seg>Apresso a la festa che devis</seg>à nuy abiam<seg>o</seg></l>
                 <l n="83"><seg>ly vene de le zente una</seg> sì gra<ex rend="italic">n</ex> frota</l>
                 <l n="84"><seg>che <num>.XII.</num> re ly sono tu</seg>te de
                     corona:</l>
@@ -435,8 +430,8 @@
                 <l n="176"><seg>Soa zente el prega dizendo: "Yo ve requero</seg></l>
                 <l n="177">(175) <seg>che al comenzare de la bataia <ex rend="italic">et</ex> del tornire,</seg> </l>
                 <l n="178"><seg>chavalere, dite 'Avergnose!' a nomare."</seg></l>
-                <l n="179"><seg>Responde zascun: "De grazia et volontera!"<seg></seg></l>
-                <l n="180"></seg>En lo campo entrano onda feze lo re aparechiare</l>
+                <l n="179"><seg>Responde zascun: "De grazia et volontera!"</seg></l>
+                <l n="180"><seg>En lo campo entrano onda feze lo re aparechiare</seg></l>
                 <l n="181"><seg>cento e ci<ex rend="italic">n</ex>quanta de soy miliore guerere.</seg></l>
                 <l n="182">(180) <seg>Lo <ex rend="italic">con</ex>te d'Artos ly fo e d'Orliens Guinemeri,</seg></l>
                 <l n="183"><seg>Bianchin</seg> del Mens e de Sanso<seg>gna lo prinzipe,</seg></l>
@@ -1513,7 +1508,8 @@
                 <l n="1188">al <ex rend="italic">con</ex>te à dito, "Fradelo, no<ex rend="italic">n</ex> siate punto p(e)<ex rend="italic">r</ex>duto</l>
                 <l n="1189">de quanto che yo azo per vuy averazo metuto;</l>
                 <l n="1190">(1185) en curto termene mio hosto averite veduto,</l>
-                <l n="1191"> 20 right </ex> de chavaly e lanze et brande nude,</l>
+                <l n="1191">de chavaly e lanze et brande nude,</l>
+                <!-- begin 1191 [Rajna 20 right] -->
                 <l n="1192">più de cento milia senza pedone,</l>
                 <l n="1193">e senza li arzere chi àno lor arche tendute.</l>
                 <l n="1194">Sotilmente lo re sera ben asaltato;</l>
@@ -6293,7 +6289,7 @@
                 <l n="5834">la quale speranza lo <ex rend="italic">con</ex>ducha a bon finno.</l>
                 <l n="5835">A piè se'n va como homo pedonante,</l>
                 <l n="5836">e per lo fren mena lo cavalo.</l>
-                <l n="5837">Doncha mé y<ex rend="italic">n </ex>nave si avea tal y<ex rend="italic">n</ex>stormento,</l>
+                <l n="5837">Doncha mé y<ex rend="italic">n</ex> nave si avea tal y<ex rend="italic">n</ex>stormento,</l>
                 <l n="5838">(5820) coss lo mena lo bon destrero corente.</l>
                 <l n="5839">Lo <ex rend="italic">con</ex>te che mena tuto al sole s'a<ex rend="italic">con</ex>zava;</l>
                 <l n="5840">et elo s'aloza quando la note prosima;</l>
@@ -8524,7 +8520,12 @@
                 <l n="8001"> Y<ex rend="italic">n</ex>tra lor cantano e dizeno bely s<ex rend="italic">er</ex>mone:</l>
                 <l n="8002">l'uno comenza e l'altro el sechonda,</l>
                 <l n="8003">e quelo oldire bele meludie e sone:</l>
-                <l n="8004">"E Dio como, a belo abitacolo le <ex rend="italic"> </ex>."</l>
+                <l n="8004">"E Dio como, a belo abitacolo le ate."</l>
+                <!-- rend ate strikethrough. Note - There is a smear, or perhaps a 
+                    bleed-through from the verso, that makes reading impossible. 
+                    Rajna too notes that the whole word is problematic ("qui tutta 
+                    la parola fr / ƣubly, rompy anche / la carta"); he ends the line 
+                    with -ate (crossed out). -->
                 <l n="8005">(7980) Questo salmo dize bene, e ben l'entende Ugone;</l>
                 <l n="8006">de zò che l'olde e ch'el vite, el zentil homo</l>
                 <l n="8007">molto se meravia; la croze se feze al fronte,</l>
@@ -10219,7 +10220,8 @@
                 <l n="9641">oltra pasono, no<ex rend="italic">n</ex> fano arestamento.</l>
                 <l n="9642">Laisse 383 Arivà sono a la porta quartana;</l>
                 <l n="9643">(9610) denanzo li era un gran fosso altano,</l>
-                <l n="9644"> 151 right</ex> forta siè la porta, <ex rend="italic">et</ex> alte le mura sovrane</l>
+                <l n="9644">forta siè la porta, <ex rend="italic">et</ex> alte le mura sovrane</l>
+                <!-- begin 9644 [Rajna 151 right] -->
                 <l n="9645">de grande afare. Senza ardore e senza pene,</l>
                 <l n="9646">lỳ no<ex rend="italic">n</ex> pò y<ex rend="italic">n</ex>trare nula criatura umana;</l>
                 <l n="9647">la beleza de la porta tuta de li altre el è strania:</l>
