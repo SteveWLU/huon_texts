@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="Huon_Customized_Schema_test.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="Huon_Customized_Schema_052217.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -710,14 +710,14 @@
             <l n="410">Qua<ex rend="italics">n</ex>t tint la main sor spaille al jugleor, </l>
             <l n="411">Les oil tint clos, mais bien veoit tutor,  </l>
             <l n="412">E regardoit quel avoit plus beltor.  </l>
-            <l n="413"><milestone n="4Ra" unit="fol."/>A tant ech vos Ynide au frois color,  </l>
+            <l n="413"><milestone n="4Ra" unit="fol."/>Atant ech vos Ynide au frois color,  </l>
             <l n="414">Qui en sa main po<ex rend="italics">r</ex>ta une rose flor.  </l>
             <l n="415">Sovant la naise; mout ja belist l'odor.5  </l>
             <l n="416">Mais le guigler dist a l'emp<ex rend="italics">er</ex>eor,  </l>
             <l n="417">"Veeç, veeç, de tot la plus zensor."  </l>
             <l n="418">K<ex rend="italics">ar</ex>lle la vit, vers li muit l'ambleor;  </l>
             <l n="419">Salue li disant, "Cil Redemptor!  </l>
-            <l n="420">S'isaut tiel dame, et bien croi ge de vor,  </l>
+            <l n="420">Si faut tiel dame, et bien croi ge de vor,  </l>
             <l n="421">Qua<ex rend="italics">n</ex>t vos forma li nostre creator  </l>
             <l n="422">Qui il n'avoit a fere autre labor.  </l>
             <l n="423">Mais dame qui ert vestue de ta<ex rend="italics">n</ex>t beltor  </l>
@@ -1157,6 +1157,7 @@
                   >n</ex>t tendrema<ex rend="italics">n</ex>t,  </l>
             <l n="751">Devotem<ex rend="italics">en</ex>t p<ex rend="italics">re</ex>gant Deu qui·l
                gart de mal to<ex rend="italics">r</ex>ma<ex rend="italics">n</ex>t,  </l>
+               <!--pregant: "g" has an unusual form; it looks like a "y"-->
             <l n="752">Ausi come il va a bon cors hesciant,  </l>
             <l n="753">Sainç mal entendim<ex rend="italics">en</ex>t, sai<ex rend="italics">n</ex>ç
                mal aovrema<ex rend="italics">n</ex>t.  </l>
