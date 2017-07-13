@@ -1,5 +1,6 @@
-<?xml-model href="Huon_Customized_Schema_test.rnc" type="application/relax-ng-compact-syntax"?>
+
 <?xml-stylesheet type="text/css" href="../../app/assets/stylesheets/teibp.css"?>
+<?xml-model href="../huon_rails/lib/assets/huon-schema-07032017.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -35,13 +36,13 @@
                 <publisher>Washington and Lee University</publisher>
                 <pubPlace>Lexington, Virginia</pubPlace>
                 <address>
-                        <name type="institution">Washington and Lee University</name>
-                        <street>204 W. Washington St.</street>
-                        <name type="city">Lexington</name>
-                        <name type="state">Virginia</name>
-                        <postCode>24405</postCode>
-                        <name type="country">USA</name>
-                    </address>
+                    <name type="institution">Washington and Lee University</name>
+                    <street>204 W. Washington St.</street>
+                    <name type="city">Lexington</name>
+                    <name type="state">Virginia</name>
+                    <postCode>24405</postCode>
+                    <name type="country">USA</name>
+                </address>
                 <availability status="free">
                     <p>The text is freely available</p>
                 </availability>
@@ -60,7 +61,7 @@
                         <origDate cert="high" evidence="scribal">1341</origDate>
                         <note>Translation prepared by Shira Schwam-Baird</note>
                         <!--  Basic praxis inserted in note above. -->
-                        <note></note>
+                        <note/>
                         <!-- Note on state of manuscript -->
                     </head>
                     <msContents>
@@ -152,7 +153,8 @@
         <body>
             <lg type="laisse" n="1">
                 <head>Laisse 1</head>
-                <l n="1"><milestone n="1Ra" unit="fol."/>In the springtime<note xml:id="trans1"/> when all the fields</l>
+                <l n="1"><milestone n="1Ra" unit="fol."/>In the springtime<note xml:id="trans1"/>
+                    when all the fields</l>
                 <l n="2">Are green again, as well as the laurel trees and bushes,</l>
                 <l n="3">When all kinds of birds fall in love,</l>
                 <l n="4">And for this reason sing and make lovely sounds,</l>
@@ -6830,7 +6832,8 @@
                 <l n="5774">(Folio 40 Ra) Everyone great and small still speaks of it,</l>
                 <l n="5775">And we will deal with you thoroughly before you leave."</l>
                 <l n="5776">"Indeed," said Baudoin, "let [him] be taken,</l>
-                <l n="5777">For I consider it a dishonor that we have endured [this] for so long."</l>
+                <l n="5777">For I consider it a dishonor that we have endured [this] for so
+                    long."</l>
                 <l n="5778">As soon as he said that, [Saudin] was seized and held---</l>
                 <l n="5779">What he said then couldn't be believed---</l>
                 <l n="5780">Before [anyone] had eaten or drunk.</l>
@@ -6863,7 +6866,8 @@
                 <l n="5804">And with His mouth He said to us and commanded</l>
                 <l n="5805">Forgive us to those who will forgive [others].</l>
                 <!--italicize 'Forgive us' -->
-                <l n="5806">Those who have mercy on others, God likewise will have [mercy] on them.</l>
+                <l n="5806">Those who have mercy on others, God likewise will have [mercy] on
+                    them.</l>
                 <l n="5807">Rather, if possible, it should be observed particularly among us.</l>
                 <l n="5808">(Laisse 225) The lady said, "[My] lords, listen, please:</l>
                 <l n="5809">[They say that] one acts wrongly ever to take pity on traitors;</l>
@@ -6872,7 +6876,7 @@
                 <!--italicize 'who read' -->
                 <l n="5812">(Folio 40 Rb) 'It is shameful for a wise man when [his own] guilt blames
                     him,146</l>
-                    <!--italicize 'It is shameful for a wise man when [his own] guilt' -->
+                <!--italicize 'It is shameful for a wise man when [his own] guilt' -->
                 <l n="5813">Nor should a man be in a hurry to be zealous.'</l>
                 <l n="5814">So think hard [about it], for we are all sinners,</l>
                 <l n="5815">[And] rather, out of reverence for our Redeemer,</l>
@@ -6884,7 +6888,8 @@
                 <l n="5821">"Have these ambassadors completely stripped,</l>
                 <l n="5822">And then led right away to the main square,</l>
                 <l n="5823">Barefoot and in their shifts, without dignity."</l>
-                <l n="5824">And they replied: "My lady, in the name of the Creator[, right away]."</l>
+                <l n="5824">And they replied: "My lady, in the name of the Creator[, right
+                    away]."</l>
                 <l n="5825">They returned to the hall. No need to ask, [my] lords,</l>
                 <l n="5826">Whether Charles's men were terribly afraid,</l>
                 <l n="5827">Full of sighs, anguish and sweat!</l>
@@ -9253,7 +9258,8 @@
                 <l n="8111">Many wandered toward him one after another,</l>
                 <l n="8112">And he, [going] from one group to another, made the sign of the cross
                     over them all.</l>
-                <l n="8113">Those [whom he had blessed] split off, [and] sang in their [animal] language;224</l>
+                <l n="8113">Those [whom he had blessed] split off, [and] sang in their [animal]
+                    language;224</l>
                 <l n="8114">They went to graze there where they found it best;</l>
                 <l n="8115">[Huon] had a lot of animals there to bless that day.</l>
                 <l n="8116">Then, as night approached, he drew near to the Ark;</l>
@@ -9321,7 +9327,8 @@
                 <l n="8176">(Folio 57 Rb) The holy fathers moved forward, and Huon backed
                     away.226</l>
                 <l n="8177">When they saw him weeping so, they felt great compassion for him.</l>
-                <l n="8178">Willingly they would have spoken to him, if God had at any time allowed it,</l>
+                <l n="8178">Willingly they would have spoken to him, if God had at any time allowed
+                    it,</l>
                 <l n="8179">But it didn't please God the Father that [Huon] hear that this time.</l>
                 <l n="8180">They acted for the best, as they believed;</l>
                 <l n="8181">If they had spoken to him, such delight it would have been to him</l>
@@ -9330,7 +9337,8 @@
                 <l n="8183">[Huon] would assuredly have forgotten about completing his quest.</l>
                 <l n="8184">(Laisse 317) Once the holy fathers had looked at Huon,</l>
                 <l n="8185">They signaled to the friars that he remained alive in that place;</l>
-                <l n="8186">[But] that they immediately take away the count who was much stricken,</l>
+                <l n="8186">[But] that they immediately take away the count who was much
+                    stricken,</l>
                 <l n="8187">So that he and they could recover somewhat.</l>
                 <l n="8188">And so they did; many times they shook him,</l>
                 <l n="8189">So far along had his body returned toward God,227</l>
