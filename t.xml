@@ -2608,6 +2608,7 @@
                 <l n="2256">"Vuy comandate che ancora fati tal labore,</l>
                 <l n="2257"><milestone n="37V" unit="fol."/> che per deleto mon<ex rend="italic">da</ex> non p<ex rend="italic">er</ex>da la
                     zoia mazore.</l>
+                    2258	<ex rend="italic"> Vuy avite i[n]teso p[er] miraclo mazore</ex>
                 <l n="2258">Quele ovre avite fate chi era vostro signore;</l>
                 <l n="2259">(2240) servite luy de bon coro e se ly portaty onore.</l>
                 <l n="2260">Eio non posso romanere, non p(i)asse al Criatore:</l>
@@ -2963,6 +2964,7 @@
                 <l n="2602">mé p<ex rend="italic">er</ex> un mal paso chi trovo lo <ex rend="italic">con</ex>te</l>
                 <l n="2603"><milestone n="42V" unit="fol."/> non pose andare tosto me si va
                     pianame<ex rend="italic">n</ex>ty</l>
+                    2605	<ex rend="italic">Tanto siè caminà che a la piana el è venuto</ex>;
                 <l n="2604">(2580) pasa l'avea la selva, al maro el è venuto.</l>
                 <l n="2605">Alora el guarda p<ex rend="italic">er</ex> denanzo e p<ex rend="italic">er</ex> dedreto</l>
                 <l n="2606">el crede ben trovare soa galeia e soa zente</l>
@@ -3377,6 +3379,7 @@
                 <l n="3004">(2990) che non se driza y<ex rend="italic">n</ex> pe; anze, vene y<ex rend="italic">n</ex> rampgon.</l>
                 <l n="3005">La coda el squasa, e sgagnolando con cridy</l>
                 <l n="3006">quando Ugo<ex rend="italic">n</ex> il menaza, più vene pedonando.</l>
+                <l n="3009">	<ex rend="italic">Inclina el capo</ex> e fa segno de umelità.</l>
                 <l n="3007">"Ai Dio," dise Ugone, "gran meravia quỳ sono!</l>
                 <l n="3008">(2995) Questo mostra dè conosere lo s<ex rend="italic">er</ex>visio che fato li avemo;</l>
                 <l n="3009">aprosimando a my l'afare mostra adoncha.</l>
@@ -5643,7 +5646,7 @@
                 <l n="5210">Con gran dolore avè resposso Ynida a quelo:</l>
                 <l n="5211">"Che site vuy, amicho, che y<ex rend="italic">n</ex>si me favela? </l>
                 <l n="5212">No<ex rend="italic">n</ex> ve reconoscho, ma vuy site Flame<ex rend="italic">n</ex>go a la liquela.</l>
-                <l n="5213">Sy vero signore, ne fina a Bordera?"</l>
+                <l n="5213">Sy vero signore, né fina a Bordera?"</l>
                 <l n="5214">"El è vero," dize el, "sire eio fuy sopra Bordela.</l>
                 <l n="5215">De ci<ex rend="italic">n</ex>quantaquatroany ne fuy signore a bacheta.</l>
                 <l n="5216">(5200) Nodrigare te feze dedentro mia camera bela;</l>
@@ -7919,8 +7922,8 @@
                 <l n="7421">(7395) arestate vuy un pocho da parte de Quelo chi non a pare.</l>
                 <l n="7422">Non vollio zamay sofrire, yo ve∙l dicho senza falire;</l>
                 <l n="7423">zò staty pary, falsy sperite, da parte de Dio vivo.</l>
-                <l n="7424"><milestone n="1R" unit="fol."/> 112V) Cosỳ sofrite a obedirme tuto zò
-                    che a my piaze</l>
+                <l n="7424"><milestone n="1R" unit="fol."/> 112V) <ex rend="italic"Cosỳ como verasemente lo credo de coro verase
+                <l n="7428"> Cosỳ sofrite a obedirme tuto zò che a my piaze </l>
                 <l n="7425">(7400) ny ponto y<ex rend="italic">n</ex>pazo per vuy zà nula no<ex rend="italic">n</ex>n-aze."</l>
                 <l n="7426">Laisse 300 Lo <ex rend="italic">con</ex>te li avè s<ex rend="italic">con</ex>zurà, "Che dite vuy a bona fede? </l>
                 <l n="7427">Eio ve asconzuro, dizelo da parte de quel Re</l>
@@ -8518,10 +8521,10 @@
                 <l n="8002">l'uno comenza e l'altro el sechonda,</l>
                 <l n="8003">e quelo oldire bele meludie e sone:</l>
                 <l n="8004">"E Dio como, a belo abitacolo le ate."</l>
-                <!-- rend ate strikethrough. Note - There is a smear, or perhaps a 
-                    bleed-through from the verso, that makes reading impossible. 
-                    Rajna too notes that the whole word is problematic ("qui tutta 
-                    la parola fr / ƣubly, rompy anche / la carta"); he ends the line 
+                <!-- rend ate strikethrough. Note - There is a smear, or perhaps a
+                    bleed-through from the verso, that makes reading impossible.
+                    Rajna too notes that the whole word is problematic ("qui tutta
+                    la parola fr / ƣubly, rompy anche / la carta"); he ends the line
                     with -ate (crossed out). -->
                 <l n="8005">(7980) Questo salmo dize bene, e ben l'entende Ugone;</l>
                 <l n="8006">de zò che l'olde e ch'el vite, el zentil homo</l>
