@@ -188,7 +188,7 @@
             <l n="10">En Pentecoste quand chivaler novel  </l>
             <l n="11"><milestone n="1Rb" unit="fol."/>Desire jostre <ex rend="italics">et</ex> me<ex
                   rend="italics">r</ex>veillos zambel,  </l>
-            <l n="12">Estoit en France un rois mout cruel1  </l>
+            <l n="12">Estoit en France un rois mout cruel </l>
             <note xml:id="b12"/>
             <l n="13">Selonch qui mostre et cronicha Odinel,  </l>
             <l n="14">Qui hom apelle le rois K<ex rend="italics">ar</ex>lle Martel.  </l>
@@ -196,7 +196,7 @@
             <l n="16">Mais d'une zonse<note xml:id="b16"/> ovra il bien cum fel,  </l>
             <l n="17">Quant un son dru gita de son hostel,  </l>
             <l n="18">Si l'envoia a querir Lucibel,  </l>
-            <l n="19">Querir trehu a le lou<note xml:id="b19"/> d'Enfernel  </l>
+            <l n="19">Querir trehu a le lou<note xml:id="b19"/> d'enfernel  </l>
             <l n="20">Sol por avoir Ynide au quer bel.  </l>
          </lg>
          <lg type="laisse" n="2">
@@ -354,7 +354,7 @@
             <l n="133">Del guerier et ferir de brant nu.  </l>
             <l n="134">Par le repois qe nos avons eü  </l>
             <l n="135">M'estoit avis qui l'usage ert p<ex rend="italics">er</ex>du.  </l>
-            <l n="136">Por (ce) voil ge qui un torner ma<ex rend="italics">n</ex>tenu</l><note xml:id=B136/>
+            <l n="136">Por (ce) voil ge qui un torner ma<ex rend="italics">n</ex>tenu</l><note xml:id=b136/>
             <l n="137">Seit quatre jors por avoir aprendu  </l>
             <l n="138">Cil qi en bataille n'avent long ta<ex rend="italics">m</ex>ps feru.  </l>
             <l n="139">Si li ferai armer sor le crenu  </l>
@@ -495,9 +495,9 @@
             <l n="243">Mais la co<ex rend="italics">m</ex>pagne dou roy de les Francis  </l>
             <l n="244">Fu a cil point si fort revigoris </l>
             <l n="245">Que au rev(er)ser avrent Ave<ex rend="italics">r</ex>naus mis, </l>
-            <!--Note: MS: revser -->
             <l n="246">Non fust quue<ex rend="italics">n</ex>s Hue <ex rend="italics">et</ex>
-                  Bera<ex rend="italics">r</ex>t les hardis,  </l>
+                  Bera<ex rend="italics">r</ex>t les hardis,  
+                  <note xml:id=b245/></l>
             <l n="247">Qui le sofrant a lor cler brant forbis.  </l>
             <l n="248">Ka<ex rend="italics">r</ex>lle enjure a les oilç de son vis  </l>
             <l n="249">Que or veut provere Hue le segnoris.  </l>
