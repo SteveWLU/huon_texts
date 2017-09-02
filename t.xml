@@ -1,33 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="huon-schema-07032017.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Turin, Biblioteca nazionale, N III 19</title>
+                <title type="short">Turin MS N III 19</title>
+                <editor xml:id="LZM">Leslie Zarker Morgan</editor>
+                <sponsor>
+                    <address>
+                        <addrLine>Washington and Lee University</addrLine>
+                        <addrLine>204 W. Washington St.</addrLine>
+                        <addrLine>Lexington, VA 24450</addrLine>
+                    </address>
+                </sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+                <principal>Stephen P. McCormick</principal>
+                <!-- Should Leslie and Shira be included, or is the principal for the P manuscript only? -->
+                <respStmt>
+                    <name>Leslie Zarker Morgan</name>
+                    <resp>edition</resp>
+                    <resp>transcription</resp>
+                    <resp>TEI coding and development</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="SPM">Stephen P. McCormick</name>
+                    <resp>TEI coding and development</resp>
+                    <resp>Web development</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="MKB">Mackenzie K. Brooks</name>
+                    <resp>TEI consultant</resp>
+                    <resp>TEI coding and development</resp>
+                    <resp>Web development</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="JCV">Jean-Claude Vallecalle</name>
+                    <resp>Literary and linguistic annotation</resp>
+                    <resp>Transcription and edition proofing</resp>
+                </respStmt>
+                <respStmt>
+                    <name xml:id="AEB">Alan E. Bernstein</name>
+                    <resp>Literary annotation for Hell scene</resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.1">
+                    <title>Version 0.1, enriched with text structure tags</title>
+                    <date when="2015">June 2015</date>
+                </edition>
+                <respStmt>
+                    <name>Stephen P. McCormick</name>
+                    <resp>Created initial digital document, developed TEI tags for text structure,
+                        and began tagging for text structure</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Natsumi D. Alvarez</name>
+                    <resp>Developed TEI tags for text structure and began tagging.</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Washington and Lee University</publisher>
+                <pubPlace>Lexington, Virginia</pubPlace>
+                <address>
+                    <name type="institution">Washington and Lee University</name>
+                    <street>204 W. Washington St.</street>
+                    <name type="city">Lexington</name>
+                    <name type="state">Virginia</name>
+                    <postCode>24405</postCode>
+                    <name type="country">USA</name>
+                </address>
+                <availability status="free">
+                    <p>The text is freely available</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:lang="en">
+                    <!-- xml:id ??? See Cummings 52 -->
+                    <msIdentifier>
+                        <country>Italy</country>
+                        <settlement>Turin</settlement>
+                        <repository>Biblioteca nazionale universitaria</repository>
+                        <idno>N III 19</idno>
+                    </msIdentifier>
+                    <head type="msHeading">
+                        <title xml:lang="FI">Huon d'Auvergne, Turin, Biblioteca nazionale, N III
+                            19</title>
+                        <origPlace cert="low">Turin</origPlace>
+                        <origDate cert="medium" evidence="internal">1441 included in final
+                            lines</origDate>
+                        <note>
+                            <p>The scribe of manuscript N.III.19 of the Turin Biblioteca Nazionale
+                                dates the work to 1441. A paper codex measuring 27 cm by 20 cm,
+                                manuscript T survives today despite a tortuous history. In 1904, a
+                                fire ravaged the Biblioteca Nazionale, destroying or badly damaging
+                                many of the library’s holdings. The Turin Huon d’Auvergne survived,
+                                even if the text and illuminations that extended into the outer
+                                margins of the manuscript are missing or damaged beyond repair.
+                                Fortunately, the nineteenth-century philologist Pio Rajna made a
+                                personal transcription of the text of manuscript T, and a notebook
+                                of this transcription, alongside another of manuscript 32 of the
+                                Biblioteca del Seminario Vescovile (manuscript P), are conserved at
+                                the Biblioteca Marucelliana of Florence.</p>
+                            <p>T has since been restored, with recto pasted onto the recto of a new
+                                sheet and the verso pasted onto the verso of that same sheet. The
+                                folios have been carefully consecutively numbered in the bottom
+                                right in pencil on the recto side; there are 183 total. There is one
+                                blank sheet at the end and at the beginning (not included in the
+                                count).</p>
+                            <p>The following pages represent a digital reconstruction of the Turin
+                                Huon d’Auvergne, drawing from the Rajna notebook when the text is
+                                not legible in the manuscript. We are careful to make it clear to
+                                the reader which portions of the text arrive to us secondarily
+                                through the Rajna transcription. In the navigation bar, the “Rajna
+                                notebook” button will highlight in red all portions of the text
+                                taken from the notebook, leaving in black the portions of the text
+                                transcribed from the manuscript. Additionally, the “MS Image” button
+                                will allow for a side-by-side comparison of manuscript T and the
+                                transcription.</p>
+                        </note>
+                    </head>
+                    <msContents>
+                        <textLang mainLang="FI">Franco-Italian</textLang>
+                        <msItem>
+                            <locus from="1r" to="117v">ff. 1r-183v</locus>
+                            <author xml:id="scribe">Anonymous</author>
+                            <!-- check foliation with Leslie -->
+                            <title xml:lang="FI">Huon d'Auvergne</title>
+                            <incipit>Al tempo de mazo quando el fiorise le prade</incipit>
+                            <explicit/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>
+                                    <p>Paper</p>
+                                </support>
+                                <extent>183<dimensions scope="all" type="leaves" unit="in">
+                                        <height>27 cm</height>
+                                        <width>20 cm</width>
+                                    </dimensions>
+                                </extent>
+                                <!-- Where does <dimensions> go?  -->
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1">
+                                    <p>In single column</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <p>Written in one hand</p>
+                        </handDesc>
+                        <decoDesc>
+                            <p>Text written in laisses; illumination program throughout, though
+                                badly damaged in 1904 Turin library fire.</p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Written in <origPlace>Northern Italy</origPlace>in the
+                                    <origDate>Manuscript dated by scribe to 1441</origDate>
+                            </p>
+                        </origin>
+                        <provenance>unknown</provenance>
+                        <acquisition>library acquisition information</acquisition>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction method="markup">
+                    <p>Apparent errors have been corrected using the sic/corr elements, wrapped in a
+                        choice element.</p>
+                </correction>
+                <!-- How do I include methods for abbreviations and omissions? -->
+            </editorialDecl>
+            <projectDesc>
+                <p>Text encoded for Huon d'Auvergne Project, which aims to create a digital edition
+                    for all four extant manuscripts of the Franco-Italian Huon d'Auvergne romance
+                    epic</p>
+            </projectDesc>
+            <tagsDecl>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi="lg">Marks laisse divisions.</tagUsage>
+                    <tagUsage gi="l">Marks line divisions.</tagUsage>
+                    <tagUsage gi="head">Marks laisse divisions</tagUsage>
+                    <tagUsage gi="gap">Marks missing folios</tagUsage>
+                </namespace>
+            </tagsDecl>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2017-01-02" who="#SPM">added line, line group, and line number tags
+                through 515</change>
+            <change when="2017-01-03" who="#SPM">added pb tages for foliation</change>
+            <change when="2017-01-05" who="#SPM">added tags for red and blue initial
+                letters</change>
+            <change when="2017-01-05" who="#SPM">began adding note tags and linking to annotations
+                document</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <divGen type="toc"/>
+        </front>
+        <body>
 <lg type="laisse" n="1">
 <head>Laisse 1</head>
-<l n="1"><seg>Al tempo de mazo<note xml:id="t1"/> quando el fiorise le
+<l n="1"><seg>Al tempo de mazo<note xml:id="t1.1"/> quando el fiorise le prade <note xml:id="t1.2"/> </l>
 <l n="2"><seg>tute reverdise li erbe e∙lle arbosele,</seg></l>
 <l n="3"><seg>et y<ex rend="italic">n</ex>n-amore vene molte mainere d'osele</seg></l>
-<l n="4"><seg>perzò cantano e fano li sony molte bele,</seg></l>
-<l n="5"><seg>tute y<ex rend="italic">n</ex>semele fano done et donzele</seg></l>
+<l n="4"><seg>perzò cantano e fano li sony molte bele, </seg><note xml:id="t4"/> </l>
+<l n="5"><seg>tute y<ex rend="italic">n</ex>semele fano done et donzele</seg> <note xml:id="t5"/> </l>
 <l n="6"><seg>che per lor deleto entrano y<ex rend="italic">n</ex> zardine;</seg></l>
-<l n="7"><milestone n="1R" unit="fol."/><seg>tute le polzele ensemele
-<l n="8"><seg>de fiore<note xml:id="t8"/> e de rosse zascun se fa
-<l n="9"><seg>se sy sbaldise perché amore lia strenze.</seg></l>
-<l n="10"><seg>En la Pentacosta quando (el) cavalere novele</seg></l>
-<l n="11"><seg>desi(d)rano zostrà e fare meraviose zambele,</seg></l>
+<l n="7"><milestone n="1R" unit="fol."/><seg>tute le polzele ensemele com zovenzele </seg><note xml:id="t7"/></l>
+<l n="8"><seg>de fiore<note xml:id="t8"/> e de rosse zascun se fa capele,</seg></l>
+<l n="9"><seg>se sy sbaldise perché amore li à strenzé.</seg></l>
+<l n="10"><seg>En la Pentacosta quando (el) cavalere novele</seg> <note xml:id="t10"/></l>
+<l n="11"><seg>desi(d)rano zostra' e fare meraviose zambele,</seg></l>
 <l n="12"><seg>el steva en Franza un re molto crudele,</seg></l>
-<l n="13"><seg>selonche che nostra cronicha ordenata,</seg></l>
+<l n="13"><seg>selonche che nostra cronicha ordenat'à,</seg></l>
 <l n="14"><seg>che hognomo l'apela lo re Carlo Martelo.</seg></l>
 <l n="15"><seg>Gran corte tenia che</seg> homo no<ex rend="italic">n</ex> la <seg>vite zà tale</seg></l>
 <l n="16"><seg>che una cossa ado</seg>pra el ben com <seg>felo</seg>:</l>
 <l n="17"><seg>quando un suo</seg> servo chaza de soa ca<seg>sa</seg>,</l>
 <l n="18"><seg>e se l'envia a que</seg>rire trabuto a Luzifero</l>
-<l n="19"><seg>et a cerchare<note xml:id="t19"/> la</seg> casa
+<l n="19"><seg>et a cerchare<note xml:id="t19"/> la</seg> casa y<exrend="italic">n</ex>fernale,
 <l n="20"><seg>solo per avere</seg> Ynida dal corpo belo.</l>
 <lg type="laisse" n="2">
 <head>Laisse 2</head>
 <l n="21"><seg>Odite signor</seg>e, che Dio ve ben<seg>edicha</seg>,</l>
-<l n="22"><seg>bona canzo</seg>n dire ve vole del soy antesore,</l>
-<l n="23"><seg>del fio del re Loi che</seg> Franza avea y<ex rend="italic">n</ex>
+<l n="22"><seg>bona canzo</seg>n dire ve vole del soy antesore, <note xml:id="t22"/></l>
+<l n="23"><seg>del fio del re Loi che</seg> Franza avea y<ex rend="italic">n</ex> ba(i)lia, <note xml:id="t23"/></l>
 <l n="24"><seg>che</seg> Carlo Martelo fo anomà a tuta soa vita.</l>
 <l n="25"><seg>Quel Carlo</seg> ne fo del molte gra<ex rend="italic">n</ex> nomenanza</l>
-<l n="26"><seg>de tute le tere ch</seg>e ello avea y<ex rend="italic">n</ex> soa
+<l n="26"><seg>de tute le tere ch</seg>e ello avea y<ex rend="italic">n</ex> soa ba(i)lia, </l>
 <l n="27"><seg>doncha non perdé</seg> zamay un sol pede</l>
 <l n="28"><seg>per son argollio</seg> e per sova lezeria.</l>
 <l n="29"><seg>Molte stranie tere</seg> el n'avè a querire</l>
@@ -37,13 +246,13 @@
 <l n="33"><seg>quando luy vole</seg> fare soy coma<ex rend="italic">n</ex>damente;</l>
 <l n="34"><seg>e s'el volese manda</seg>re per soa gra<ex rend="italic">n</ex> baronia,</l>
 <l n="35"><seg>senza longo termene</seg> li menò y<ex rend="italic">n</ex> ba(i)lia,</l>
-<l n="36">v cente milia homene de bona zente be<ex rend="italic">n</ex> guarnita</l>
+<l n="36"><num rend="smallcaps">.v.</num> cente milia homene de bona zente be<ex rend="italic">n</ex> guarnita</l>
 <l n="37"><seg>senza li pedone e tu</seg>te ly bone arzere,</l>
 <l n="38"><seg>che la rota non poria</seg> aver miga.</l>
 <l n="39"><seg>Perzò che lo re se</seg> sente tanto avanzare</l>
 <l n="40"><seg>più che doncha no<ex rend="italic">n</ex> fo</seg> sỳ anticho miga,</l>
-<l n="41"><milestone n="1V" unit="fol."/>
-<l n="42"><seg>A torto il tole altruy l'avere <ex rend="italic">et</ex> altruy el
+<l n="41"><milestone n="1V" unit="fol."/> <seg>più orgoioso ne fo e più che zudice.</seg>
+<l n="42"><seg>A torto il tole altruy l'avere <ex rend="italic">et</ex> altruy el des<ex rend="italic">er</ex>ta,
 <l n="43"><seg>et molte done à vergognà et hodiate,</seg></l>
 <l n="44"><seg>et perzò non è miga da la zente agabà,</seg></l>
 <l n="45"><seg>anzo li era la zente d'el acontrà.</seg></l>
@@ -51,13 +260,13 @@
 <head>Laisse 3</head>
 <l n="46"><seg>Ora fate paze et atendite, signore</seg>,</l>
 <l n="47"><seg>de Carlo Martelo che fo y<ex rend="italic">m</ex>peradore</seg>,</l>
-<l n="48"><seg>che y<ex rend="italic">n</ex> suo tempo conquistò tanto onore;</seg></l>
+<l n="48"><seg>che y<ex rend="italic">n</ex> suo tempo</seg> conqui<seg>stò tanto onore;</seg></l>
 <l n="49"><seg>com più el</seg> <ex rend="italic">con</ex>quistò più fo crud<seg>ele tute hore.</seg></l>
 <l n="50"><anchor resp="Rajna" n="50"/><seg>Né à re</seg> né à prinzipo né à ducha <seg>né à valvasore</seg>
 <l n="51"><seg>né à</seg> conte né à marchese né baron <seg>dentorno</seg></l>
-<l n="52"><seg>che</seg> no∙l s<ex rend="italic">er</ex>va per dotanza o per <seg>amore</seg>.</l>
+<l n="52"><seg>che</seg> no∙l s<ex rend="italic">er</ex>va per dotanza o per a<seg>more</seg>.</l>
 <l n="53">Al re vene talente <ex rend="italic">et</ex> y<ex rend="italic">n</ex> coro un <seg>zorno</seg></l>
-<l n="54">del tuto vedere de soy homene lo <seg>miore</seg></l>
+<l n="54">del tuto vedere de soy homene l<seg>o miore</seg></l>
 <l n="55">(55)lo quale avea più forza et più <seg>valore</seg>;</l>
 <l n="56">comseio ne presse al <ex rend="italic">con</ex>te da Luzen<seg>borgo</seg></l>
 <l n="57">et a Ruzero, lo sere de Nante an<seg>cora</seg>,</l>
@@ -75,7 +284,7 @@
 <l n="69">e quily che no<ex rend="italic">n</ex> virano si p<seg>erderano tuo
 <l n="70">(70) "Per fede," dize Carlo, "cosỳ far<seg>azo senza
 <l n="71">Alora feze domandare pr<seg>esto li banditore</seg></l>
-<l n="72">e luy l(i) comandò, li feze cha<seg>valcare
+<l n="72">e luy l(i) comandò, li feze cha<seg>valcare dentorno</l>
 <l n="73">e bandise la corte da parte <seg>de lo'mperadore</seg>.</l>
 <lg type="laisse" n="4">
 <head>Laisse 4</head>
