@@ -16,11 +16,11 @@ païs<?xml version="1.0" encoding="UTF-8"?>
              </address>
            </sponsor>
             <funder>The National Endowment for the Humanities</funder>
-            <respStmt type="editor">
+            <respStmt>
                <name>Leslie Zarker Morgan</name>
                <resp>Edition of B</resp>
             </respStmt>
-            <respStmt type="encoder">
+            <respStmt>
                <name xml:id="SPM">Stephen Patrick McCormick</name>
                <resp>TEI coding and development</resp>
                <resp>Web interface development</resp>
@@ -220,7 +220,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="34">Si ou rois vousist mander soe baro<ex rend="italic">n</ex>ie,  </l>
             <l n="35">Sainç mout grant pois menast i<ex rend="italic">n</ex> host ba<ex
                   rend="italic">n</ex>nie  </l>
-            <l n="36">.<num rend="smallcaps">.v.</num><hi rend="super"></hi>c mil homes de bone giant garnie,  </l>
+            <l n="36"><num rend="smallcaps">.v.</num><hi rend="super">c</hi> mil homes de bone giant garnie,  </l>
             <l n="37">Sainç le peon o tot la archerie,  </l>
             <l n="38">Qi la moité non poroit estre esmie.  </l>
             <l n="39">Por ce qu'il rois soi sent tant avancie,  </l>
@@ -353,7 +353,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="133">Del guerier et ferir de brant nu.  </l>
             <l n="134">Par le repois qe nos avons eü  </l>
             <l n="135">M'estoit avis qui l'usage ert p<ex rend="italic">er</ex>du.  </l>
-            <l n="136">Por (ce) voil ge qui un torner ma<ex rend="italic">n</ex>tenu</l><note xml:id=b136/>
+            <l n="136">Por (ce) voil ge qui un torner ma<ex rend="italic">n</ex>tenu</l><note xml:id="b136"/>
             <l n="137">Seit quatre jors por avoir aprendu  </l>
             <l n="138">Cil qi en bataille n'avent long ta<ex rend="italic">m</ex>ps feru  </l>
             <l n="139">Si li ferai armer sor le crenu.  </l>
@@ -432,7 +432,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="197">Thomais le pros et Baudoi<ex rend="italic">n</ex> le cremus,  </l>
             <l n="198">Morant, Sanson, qui ne sont esp<ex rend="italic">er</ex>dus,  </l>
             <l n="199">Le seguirent ad esperons batus.  </l>
-            <l n="200">Chascun de lor cent a 'l son abatus,  </l><note xml:id=b200/>
+            <l n="200">Chascun de lor cent a 'l son abatus, <note xml:id="b200"/>  </l>
             <l n="201">Mais, cu<ex rend="italic">m</ex> lion qua<ex rend="italic">n</ex>t plus
                   fo<ex rend="italic">r</ex>t irascus  </l>
             <l n="202">Estoit doté sor animal menus,  </l>
@@ -493,9 +493,9 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="242">E son quisin fist remonter ausis.  </l>
             <l n="243">Mais la co<ex rend="italic">m</ex>pagne dou roy de les Francis  </l>
             <l n="244">Fu a cil point si fort revigoris </l>
-            <l n="245">Que au rev<ex rend="angle">er</ex>ser avrent Ave<ex rend="italic">r</ex>naus mis, </l> <note xml:id=b245/>
+            <l n="245">Que au rev<ex rend="angle">er</ex>ser avrent Ave<ex rend="italic">r</ex>naus mis,  <note xml:id="b245"/></l>
             <l n="246">Non fust quue<ex rend="italic">n</ex>s Hue <ex rend="italic">et</ex>
-                  Bera<ex rend="italic">r</ex>t les hardis,  
+                  Bera<ex rend="italic">r</ex>t les hardis,   </l>
             <l n="247">Qui le sofrant a lor cler brant forbis.  </l>
             <l n="248">Ka<ex rend="italic">r</ex>lle enjure a les oilç de son vis  </l>
             <l n="249">Que or veut provere Hue le segnoris.  </l>
@@ -612,7 +612,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="341">Et a la dame Huon doner disner,  </l>
             <l n="342">E pués la feste <ex rend="brackets">e</ex>v<ex rend="brackets">e</ex>olons aler ga<ex rend="italic">r</ex>der,  </l>
             <l n="343">Que de nus home <ex rend="angle">v</ex>olo<ex rend="italic">n</ex>s ja l'engo<ex rend="italic"
-                  >m</ex>brer."  </l> <note xml:id=b343/>
+                  >m</ex>brer." <note xml:id="b343"/>  </l>
             <l n="344">Le rois la entant, si en prist un ris giter,  </l>
             <l n="345">"Qu'en dites vos, sire Huon, biaus frer?"  </l>
             <l n="346">"Par ma foy sire, il ert da otroier."  </l>
@@ -710,7 +710,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="412">E regardoit quel avoit plus beltor.  </l>
             <l n="413"><milestone n="4Ra" unit="fol."/>Atant ech vos Ynide au frois color,  </l>
             <l n="414">Qui en sa main po<ex rend="italic">r</ex>ta une rose flor.  </l>
-            <l n="415">Sovant la naise; mout ja belist l'odor.  </l> <note xml:id=b415/>
+            <l n="415">Sovant la naise; mout ja belist l'odor. <note xml:id="b415"/>  </l>
             <l n="416">Mais le guigler dist a l'emp<ex rend="italic">er</ex>eor,  </l>
             <l n="417">"Veeç, veeç, de tot la plus zensor."  </l>
             <l n="418">K<ex rend="italic">ar</ex>lle la vit, vers li muit l'ambleor;  </l>
@@ -830,7 +830,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
                   >n</ex> voit q<ex rend="italic">ue</ex> il no<ex rend="italic">n</ex> pora.
                 </l>
             <l n="508">Mout en force d'amis ma<ex rend="italic">n</ex>t bon ch<ex rend="italic"
-                  >ivale</ex>r a  </l> <note xml:id=b508/>
+                  >ivale</ex>r a <note xml:id="b508"/>  </l>
             <l n="509">Ch'om melor de luy ja no<ex rend="italic">n</ex> si trovera.  </l>
             <l n="510">Donque p<ex rend="italic">or</ex> humbliteç <ex rend="italic">con</ex>quir
                li estovra;  </l>
@@ -871,7 +871,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
             <l n="539">Que li plusor Saudin i nomerent  </l>
             <l n="540">Entra dedanç por la ment de la gient.  </l>
             <l n="541">Vient au lit o li rois si estent,  </l>
-            <l n="542">Trova lui plaindre et fer grant li ga(u)me<ex rend="italic">n</ex>t  </l> <note xml:id=b542/>
+            <l n="542">Trova lui plaindre et fer grant li ga(u)me<ex rend="italic">n</ex>t <note xml:id="b542"/>  </l>
             <l n="543">Enfra soi meesme, com fame dolosent.  </l>
             <l n="544">Deva<ex rend="italic">n</ex>t ses pieç li ber a jenols stent,  </l>
             <l n="545">E dist, "Mon sire de quoi avés spavent?  </l>
