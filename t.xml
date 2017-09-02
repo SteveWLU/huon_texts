@@ -209,7 +209,7 @@
         <body>
 <lg type="laisse" n="1">
 <head>Laisse 1</head>
-<l n="1"><seg>Al tempo de mazo<note xml:id="t1.1"/> quando el fiorise le prade <note xml:id="t1.2"/> </l>
+<l n="1"><seg>Al tempo de mazo<note xml:id="t1.1"/> quando el fiorise le prade <note xml:id="t1.2"/></seg></l>
 <l n="2"><seg>tute reverdise li erbe e∙lle arbosele,</seg></l>
 <l n="3"><seg>et y<ex rend="italic">n</ex>n-amore vene molte mainere d'osele</seg></l>
 <l n="4"><seg>perzò cantano e fano li sony molte bele, </seg><note xml:id="t4"/> </l>
@@ -227,9 +227,9 @@
 <l n="16"><seg>che una cossa ado</seg>pra el ben com <seg>felo</seg>:</l>
 <l n="17"><seg>quando un suo</seg> servo chaza de soa ca<seg>sa</seg>,</l>
 <l n="18"><seg>e se l'envia a que</seg>rire trabuto a Luzifero</l>
-<l n="19"><seg>et a cerchare<note xml:id="t19"/> la</seg> casa y<exrend="italic">n</ex>fernale,
+<l n="19"><seg>et a cerchare<note xml:id="t19"/> la</seg> casa y<ex rend="italic">n</ex>fernale,
 <l n="20"><seg>solo per avere</seg> Ynida dal corpo belo.</l>
-<!--
+</l>
 <lg type="laisse" n="2">
 <head>Laisse 2</head>
 <l n="21"><seg>Odite signor</seg>e, che Dio ve ben<seg>edicha</seg>,</l>
