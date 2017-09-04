@@ -205,6 +205,9 @@
     <text>
         <body>
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6424b7b7a8dc6bf1a443933b35209d1a0ab49bf2
             <lg type="laisse" n="1">
                 <head>Laisse 1</head>
                 <l n="1"><seg>TEST Al tempo de mazo<note xml:id="t1.1"/> quando el fiorise le prade <note
@@ -16004,6 +16007,8 @@ with -ate (crossed out). -->
         </body>
     </text>
 </TEI>
+<<<<<<< HEAD
+=======
 =======
 <lg type="laisse" n="1">
 <head>Laisse 1</head>
@@ -28044,3 +28049,4 @@ with -ate (crossed out). -->
 <l n="11840">et my ch<ex rend="italic">e</ex> l'azo quỳ scrita, no<ex rend="italic">n</ex> me faza danazione.</l>
 <l n="11841">Ternus amen de .1441. die.6. de Feb<ex rend="italic">rar</ex>.</l>
 >>>>>>> 2fcd08cde93ca66d1b25b7ab7c2ccf0c61fe8ff0
+>>>>>>> 6424b7b7a8dc6bf1a443933b35209d1a0ab49bf2
