@@ -34,19 +34,15 @@
         </front>
         <body>
             <div>
-                    <note xml:id="t1.1" type="ling" resp="#SPM">mazo "may"</note>
                     <note xml:id="t1.2" type="biblio" resp="#LZM">Also transcribed by Holtus (2001), pp. 48-50, lines 1-109; Pasinus, 1-10; Peyron 1-16; Graf (1878) 1-72.</note>
                     <note xml:id="t4" type="Rajna" resp="#LZM">Rajna here places a description of the miniature: Min. 1. un re (tutto army) e p..t... altre figure; non intendo bene l'imagin/ Yug. dirige un psonag/ porge un breve/ ad un altro ch 'è/ inginocchiato/ forse l'invito di uon a corte </note>
                     <note xml:id="t5" type="Rajna" resp="#LZM">Numbers in Rajna's notebook are in pencil, added later.</note>
                     <note xml:id="t7" type="codic" resp="#LZM">Rajna: 2r. The manuscript began on a recto when he saw it, with 6 lines: 4 followed by a miniature, with two more following it. Here is the beginning of today's MS.</note>
-                    <--! 7 needs to be characterized also by Rajan-->
-                    <note xml:id="t8" type="ling" resp="#SPM">fiore "flowers"</note>
+                    <!-- 7 needs to be characterized also by Rajna -->
                     <note xml:id="t10" type="Rajna" resp="#LZM">In Rajna's transcription, "y." somewhat after "el" above the line.</note>
-                    <note xml:id="t19" type="ling" resp="#SPM">cerchare "to look for"</note>
                     <note xml:id="t22" type="Rajna" resp="#LZM">Rajna notes "sic" after <hi rend="italic">vevole</hi>.</note>
-                    <note xml:id="t23" type "edit" resp="#LZM">Holtus: los. "y" crossed out; Rajna: "caratt. più picc / forte aggiunte fatte / poi –i =" (marginal note).
-                    <note xml:id="t45" type "Rajna" resp="#LZM"> Rajna, note in right margin (sic). B: <hi rend="italic">Anchois le haete la giant d[e] la [con]trie.</hi> T seems to be missing the verb, "odia"; an emeded reading might be <hi rend="italic">anzo li (odi)a la zente de la contrà.</hi></note>
-                    
+                    <note xml:id="t23" type="edit" resp="#LZM">Holtus: los. "y" crossed out; Rajna: "caratt. più picc / forte aggiunte fatte / poi –i =" (marginal note).
+                    <note xml:id="t45" type="Rajna" resp="#LZM"> Rajna, note in right margin (sic). B: <hi rend="italic">Anchois le haete la giant d[e] la [con]trie.</hi> T seems to be missing the verb, "odia"; an emeded reading might be <hi rend="italic">anzo li (odi)a la zente de la contrà.</hi></note>      
             </div>
         </body>
     </text>
