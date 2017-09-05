@@ -568,7 +568,7 @@
                 <l n="241"><seg>e suo cosỳ el feze rem</seg>ontare cosìe.</l>
                 <l n="242"><seg>Ma li <ex rend="italic">com</ex>pagny de lo re d</seg>y franzese </l>
                 <l n="243"><anchor resp="Rajna" n="240"/><milestone n="4V" unit="fol."/><seg>fono a quelo ponto sì feramente
-                        corezate</seg> <note xml:id="243"/></l>
+                        corezate</seg> <note xml:id="t243"/></l>
                 <l n="244"><seg>che al remore sone li Avergnase mise,</seg></l>
                 <l n="245"><seg>no<ex rend="italic">n</ex> fo lỳ lo <ex rend="italic">con</ex>te né
                         Berardo l'ardito</seg></l>
@@ -863,7 +863,7 @@
                 <l n="442"><seg>zò siè lo <ex rend="italic">con</ex>te d'Al</seg>vergna lo
                     segnorile</l>
                 <l n="443"><seg>che a matrimo</seg>nio andiamo nuy y<ex rend="italic">n</ex>
-                        covine<ex rend="italic">n</ex>te. <note xml:id="t443"</l>
+                        covine<ex rend="italic">n</ex>te. <note xml:id="t443"></note></l>
                 <l n="444"><anchor resp="Rajna" n="440"/><seg>La fior che y az</seg>o, sì ve dicho ben de fede,</l>
                 <l n="445"><seg>guardarò ben t</seg>anto com el mio coro è vivente,</l>
                 <l n="446"><seg>e sỳ lo rendrò al co</seg>nte mio marito</l>
@@ -892,7 +892,7 @@
                 <l n="460"><seg>Li amorose do</seg>ne chy s<seg>ono avisate</seg></l>
                 <l n="461"><seg>si vano</seg> tropo melio avante <seg>più polite."</seg></l>
                 <l n="462"><seg>"Sere,"</seg> dize Ynida, "se Dio me bene<seg>dicha</seg></l>
-                <l n="463">coluy siè falso che so amor n<seg>e piga</seg><note xml: id="t463"/></l>
+                <l n="463">coluy siè falso che so amor n<seg>e piga</seg><note xml:id="t463"/></l>
                 <l n="464"><anchor resp="Rajna" n="460"/>desopra coluy che luy no<ex rend="italic">n</ex> ama
                         <seg>miga.</seg></l>
                 <l n="465">Lasate-me stare, per vostra cort<seg>esia,</seg></l>
@@ -913,7 +913,7 @@
                 <l n="477">quando a sy <ex rend="italic">con</ex>sente e possa siè
                         re<seg>pentito</seg></l>
                 <l n="478">del falo ch'el avea fato, e morto <seg>se tene y<ex rend="italic"
-                        >n</ex>tra ello</seg>;<note xml:id="t478" ></l>
+                        >n</ex>tra ello;</seg><note xml:id="t478"/></l>
                 <l n="479"><anchor resp="Rajna" n="475"/>tuto cosỳ fo lo re quando <seg>la resposta oldote</seg>.</l>
                 <l n="480">Endré se'n reto(r)na, da la fest<seg>a se de(s)partia</seg>. </l>
             </lg>
@@ -1022,7 +1022,7 @@
                     prese<seg>nte</seg>;</l>
                 <l n="543">s'el è gra<ex rend="italic">n</ex> fato se l'averise
                         aquetam<seg>ente.</seg></l>
-                <l n="544">Zà state signore, (a) vuy tuto atento;<note xml:id="t544>/>"</l>
+                <l n="544">Zà state signore, (a) vuy tuto atento;<note xml:id="t544"/></l>
                 <l n="545">no<ex rend="italic">n</ex> desdirà nesun vostro comanda<seg>me<ex
                             rend="italic">n</ex>to</seg>.</l>
                 <l n="546"><anchor resp="Rajna" n="540"/>Se ello li fese, sy<ex rend="italic">n</ex>n-averave
@@ -1064,7 +1064,7 @@
                 <l n="567"><seg>Cosỳ pensa lo re</seg> de menare suo lavoro </l>
                 <l n="568"><seg>e posa dize a Sand</seg>in: "Molto vuy amo per amore;</l>
                 <l n="569"><seg>me pose fidare en</seg> vuy?" "E y<ex rend="italic">n</ex> el me
-                    Signore.<note xml:id="t569""/></l>
+                    Signore.<note xml:id="t569"/></l>
                 <l n="570"><seg>Cosa non è al</seg> mondo se posso avere y<ex rend="italic">n</ex>
                     questo zorno</l>
                 <l n="571"><anchor resp="Rajna" n="565"/><seg>che yo no<ex rend="italic">n</ex> faz</seg>a per vuy, se morte
