@@ -1,13 +1,12 @@
-
-<?xml-stylesheet type="text/css" href="../../app/assets/stylesheets/teibp.css"?>
-<?xml-model href="../huon_rails/lib/assets/huon-schema-07032017.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<?xml-model href="huon-schema-09062017.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hugh of Auvergne, a Franco-Italian Romance-Epic</title>
-                <title type="short">English Translation</title>
-                <editor xml:id="SPM">Shira Schwam-Baird</editor>
+                <title type="text">Huon d'Auvergne</title>
+                <title type="manuscript">Berlin Kupferstichkabinett 78 D 8 (olim Hamilton 337)</title>
+                <title type="short">Berlin translation</title>
                 <sponsor>
                     <address>
                         <addrLine>Washington and Lee University</addrLine>
@@ -28,8 +27,16 @@
                     <date when="2017">August 31</date>
                 </edition>
                 <respStmt>
-                    <name>Shira Schwam-Baird</name>
+                    <name resp="translator">Shira Schwam-Baird</name>
                     <resp>Translation of Berlin Kupferstichkabinett Hamilton 337 (78 D 8)</resp>
+                </respStmt>
+                <respStmt>
+                    <name resp="encoder" xml:id="SPM">Stephen P. McCormick</name>
+                    <resp>TEI markup for phase 1 of project</resp>
+                </respStmt>
+                <respStmt>
+                    <name resp="encoder" xml:id="LZM">Leslie Zarker Morgan</name>
+                    <resp>TEI markup for phase 1 of project</resp>
                 </respStmt>
             </editionStmt>
             <publicationStmt>

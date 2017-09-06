@@ -7,7 +7,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2017-09-02T18:07:51Z. .
+# Schema generated from ODD source 2017-09-06T20:14:48Z. .
 # TEI Edition: Version 3.2.0. Last updated on
 #	10th July 2017, revision 0fcf651
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.2.0/
@@ -1404,29 +1404,6 @@ tei_model.editorialDeclPart =
 tei_model.profileDescPart =
   tei_abstract | tei_langUsage | tei_textClass | tei_handNotes
 tei_model.resourceLike = tei_text
-tei_att.personal.attributes =
-  tei_att.naming.attributes,
-  tei_att.personal.attribute.full,
-  tei_att.personal.attribute.sort
-tei_att.personal.attribute.full =
-  
-  ## indicates whether the name component is given in full, as an abbreviation or simply as an initial.
-  [ a:defaultValue = "yes" ]
-  attribute full {
-    
-    ## the name component is spelled out in full.
-    "yes"
-    | 
-      ## (abbreviated) the name component is given in an abbreviated form.
-      "abb"
-    | 
-      ## (initial letter) the name component is indicated only by one initial.
-      "init"
-  }?
-tei_att.personal.attribute.sort =
-  
-  ## specifies the sort order of the name component in relation to others within the name.
-  attribute sort { xsd:nonNegativeInteger }?
 tei_model.placeLike = tei_place
 tei_p =
   
@@ -1520,41 +1497,23 @@ tei_q =
   ## (quoted) contains material which is distinguished from the surrounding text using quotation marks or a similar method, for any one of a variety of reasons including, but not limited to: direct speech or thought, technical terms or jargon, authorial distance, quotations from elsewhere, and passages that are mentioned but not used. [3.3.3. Quotation]
   element q {
     tei_macro.specialPara,
-    tei_att.global.attributes,
-    tei_att.ascribed.attributes,
     
-    ## may be used to indicate whether the offset passage is spoken or thought, or to characterize it more finely.
-    ## Suggested values include: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] foreign; 6] distinct; 7] term; 8] emph; 9] mentioned
-    attribute type {
-      
-      ## representation of speech
-      "spoken"
-      | 
-        ## representation of thought, e.g. internal monologue
-        "thought"
-      | 
-        ## quotation from a written source
-        "written"
-      | 
-        ## authorial distance
-        "soCalled"
-      | 
-        ##
-        "foreign"
-      | 
-        ## linguistically distinct
-        "distinct"
-      | 
-        ## technical term
-        "term"
-      | 
-        ## rhetorically emphasized
-        "emph"
-      | 
-        ## refering to itself, not its normal referent
-        "mentioned"
-      | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    ## (language) indicates the language of the element content using a tag generated according to BCP 47.
+    [ a:defaultValue = "en, it, la, fi, fr" ]
+    attribute xml:lang {
+      xsd:language
+      | (
+         ##
+         "")
     }?,
+    
+    ## (rendition) indicates how the element in question was rendered or presented in the source text.
+    [ a:defaultValue = "bold" ]
+    attribute rend {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    },
     empty
   }
 tei_cit =
@@ -1759,11 +1718,17 @@ tei_name =
   ## (name, proper noun) contains a proper noun or noun phrase. [3.5.1. Referring Strings]
   element name {
     tei_macro.phraseSeq,
-    tei_att.global.attributes,
-    tei_att.personal.attributes,
-    tei_att.datable.attributes,
-    tei_att.editLike.attributes,
-    tei_att.typed.attributes,
+    tei_att.typed.attribute.type,
+    
+    ## (identifier) provides a unique identifier for the element bearing the attribute.
+    ## Sample values include: 1] #AEB; 2]  #JCV; 3]  #SPM; 4]  #LZM; 5]  #SSB
+    attribute xml:id { xsd:ID }?,
+    
+    ## (responsible party) indicates the agency responsible for the intervention or interpretation, for example an editor or transcriber.
+    [ a:defaultValue = "annotator, editor, encoder, translator" ]
+    attribute resp {
+      list { xsd:anyURI+ }
+    }?,
     empty
   }
 tei_email =
@@ -2008,34 +1973,20 @@ tei_title =
   ## contains a title for any kind of work. [3.11.2.2. Titles, Authors, and Editors 2.2.1. The Title Statement 2.2.5. The Series Statement]
   element title {
     tei_macro.paraContent,
-    tei_att.global.attributes,
-    tei_att.canonical.attributes,
-    tei_att.typed.attribute.subtype,
-    tei_att.datable.attributes,
     
-    ## classifies the title according to some convenient typology.
-    ## Sample values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] short; 5] desc(descriptive) 
-    attribute type {
-      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    ## (language) indicates the language of the element content using a tag generated according to BCP 47.
+    ## Sample values include: 1] en; 2]  fi; 3]  fr; 4]  it; 5]  la
+    attribute xml:lang {
+      xsd:language
+      | (
+         ##
+         "")
     }?,
     
-    ## indicates the bibliographic level for a title, that is, whether it identifies an article, book, journal, series, or unpublished material.
-    attribute level {
-      
-      ## (analytic) the title applies to an analytic item, such as an article, poem, or other work published as part of a larger item.
-      "a"
-      | 
-        ## (monographic) the title applies to a monograph such as a book or other item considered to be a distinct publication, including single volumes of multi-volume works
-        "m"
-      | 
-        ## (journal) the title applies to any serial or periodical publication such as a journal, magazine, or newspaper
-        "j"
-      | 
-        ## (series) the title applies to a series of otherwise distinct publications such as a collection
-        "s"
-      | 
-        ## (unpublished) the title applies to any unpublished material (including theses and dissertations unless published by a commercial press)
-        "u"
+    ## classifies the title according to some convenient typology.
+    ## Sample values include: 1] manuscript; 2]  short; 3]  text
+    attribute type {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
     }?,
     empty
   }
