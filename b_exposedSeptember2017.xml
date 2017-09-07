@@ -98,7 +98,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
                      <locus from="1r" to="84v">ff. 1r-84v</locus>
                      <!-- check foliation with Leslie -->
                      <title xml:lang="FI">Huon d'Auvergne</title>
-                     <incipit>Al tamps de may quand furent li praël</incipit>
+                     <incipit>Al tamps de may quand furent li prael</incipit>
                      <explicit>En son saint regne o chante li kerubin</explicit>
                      <!-- Checked 22 July 2017 LZM -->
                   </msItem>
@@ -126,7 +126,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
                      <p>Written in one hand</p>
                   </handDesc>
                   <decoDesc>
-                     <p>Text written in laisses with colored initials alternating blue and red</p>
+                     <p>Text written in laisses with colored initials alternating blue and red with occasional missed alternation</p>
                   </decoDesc>
                </physDesc>
                <history>
@@ -144,8 +144,8 @@ païs<?xml version="1.0" encoding="UTF-8"?>
          <editorialDecl>
             <correction method="markup">
                <p>I have attempted to correct the text as little as possible and only in passages in
-                  which meaning would be difficult to decipher. All emendations are in parentheses (
-                  ) and I include a footnote with the original manuscript reading and any other
+                  which meaning would be difficult to decipher. All emendations are in angle brackets <
+                  > and I include a footnote with the original manuscript reading and any other
                   comments concerning the manuscript context and discussing my rationale behind
                   proposing an emendation.</p>
             </correction>
@@ -176,7 +176,7 @@ païs<?xml version="1.0" encoding="UTF-8"?>
          <lg type="laisse" n="1">
             <head>Laisse 1</head>
             <l n="1">﻿<milestone n="1Ra" unit="fol."/>Al tamps de may quand furent li <note
-                  xml:id="b1"/>praël</l>
+                  xml:id="b1"/>prael</l>
                   <!-- test-->
             <l n="2">Tot reverdis, lorer et arboisel,  </l>
             <l n="3">Que en amors vient maintes mainer d'oisel,  </l>
