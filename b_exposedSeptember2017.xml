@@ -213,7 +213,7 @@
             <l n="29">Maintes estranges en avoit aquitie,  </l>
             <l n="30">Tant qu'il en oit desot sa segnorie  </l>
             <l n="31">Tretot le mont. Neis la paienie  </l>
-            <l n="32">L'en obeist; n'a si hardi qe desdie  </l>
+            <l n="32">L'en obeïst; n'a si hardi qe desdie  </l>
             <l n="33">Au fiuç Loïs qua<ex rend="italic">n</ex>t feit soe coma<ex rend="italic"
                   >n</ex>die.  </l>
             <l n="34">Si ou rois vousist mander soe baro<ex rend="italic">n</ex>ie,  </l>
@@ -426,14 +426,14 @@
             <l n="193">Que li primer qui sont al ca<ex rend="italic">m</ex>p ve<ex rend="italic"
                   >n</ex>c<ex rend="italic">us</ex>,  </l>
             <l n="194">Le destrer broce de li sperons agus.  </l>
-            <l n="195">Fiert quuens d'Arthois, dou cival l'abat ju<ex rend="italic">s</ex>.  </l>
+            <l n="195">Fiert quuens d'Arthois dou cival l'abat ju<ex rend="italic">s</ex>.  </l>
             <l n="196">E d'Orliens Guinimer le bon dus,  </l>
             <l n="197">Thomais le pros et Baudoi<ex rend="italic">n</ex> le cremus,  </l>
             <l n="198">Morant, Sanson, qui ne sont esp<ex rend="italic">er</ex>dus,  </l>
             <l n="199">Le seguirent ad esperons batus.  </l>
             <l n="200">Chascun de lor cent a 'l son abatus, <note xml:id="b200"/>  </l>
             <l n="201">Mais, cu<ex rend="italic">m</ex> lion qua<ex rend="italic">n</ex>t plus
-                  fo<ex rend="italic">r</ex>t irascus  </l>
+                  fo<ex rend="italic">r</ex>t irascus,  </l>
             <l n="202">Estoit doté sor animal menus,  </l>
             <l n="203">Tot ensemant fu le quisin le dux.  </l>
             <l n="204">Em petit d'ore, a tot le ca<ex rend="italic">m</ex>ps vencus,  </l>
@@ -450,6 +450,7 @@
             <l n="213">Que ge no<ex rend="italic">n</ex> aige tot lor brance to<ex rend="italic"
                   >n</ex>dus."  </l>
          </lg>
+         <!--rECORRECTED TO HERE 10 SEPTEMBER 2017 -->
          <lg type="laisse" n="9">
             <head>Laisse 9</head>
             <l n="214"><hi rend="blue-initial">E</hi>n celui jor ot l'onor et le pris  </l>
