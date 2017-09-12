@@ -450,7 +450,6 @@
             <l n="213">Que ge no<ex rend="italic">n</ex> aige tot lor brance to<ex rend="italic"
                   >n</ex>dus."  </l>
          </lg>
-         <!--rECORRECTED TO HERE 10 SEPTEMBER 2017 -->
          <lg type="laisse" n="9">
             <head>Laisse 9</head>
             <l n="214"><hi rend="blue-initial">E</hi>n celui jor ot l'onor et le pris  </l>
@@ -460,7 +459,7 @@
                   >r</ex>is  </l>
             <l n="218">Qu'il grant hono<ex rend="italic">r</ex> q'avoit Bera<ex rend="italic"
                   >r</ex>t <ex rend="italic">con</ex>q<ex rend="italic">ui</ex>s  </l>
-            <l n="219">Abatus fust <ex rend="italic">et</ex> dou tot dechaïs.  </l>
+            <l n="219">Abatus fust <ex rend="italic">et</ex> dou tot dechaïs  </l>
             <l n="220">Armés des armes e<ex rend="italic">n</ex>sa<ex rend="italic">n</ex>gné a
                   flo<ex rend="italic">r</ex> de lis,  </l>
             <l n="221">Entra au caple, et lui <ex rend="italic">et</ex> li ma<ex rend="italic"
@@ -528,7 +527,7 @@
             <l n="268">E fiert Huon d’eschuç et de viaire,  </l>
             <l n="269">Et de le brant cu<ex rend="italic">m</ex> mort l'eüst son paire.  </l>
             <l n="270">Hue fiert luy, que la ne·l conuit gaire,  </l>
-            <l n="271">Que dou ciual l'abat, stendu en la baire.  </l>
+            <l n="271">Que dou cival l'abat, stendu en la baire.  </l>
             <l n="272">Au devaler q<ex rend="italic">ue</ex> fist le empaire,  </l>
             <l n="273">Le fu chaü le haume de grant afaire.  </l>
             <l n="274">Hue le vit, si dist, "Ha, las, peccaire,  </l>
@@ -622,6 +621,7 @@
          </lg>
          <lg type="laisse" n="13">
             <head>Laisse 13</head>
+            <!--Stopped here re-editing 11 Setp.-->
             <l n="349"><hi rend="blue-initial">L</hi>e rois li otroie li don tot quiteme<ex
                   rend="italic">n</ex>t;  </l>
             <l n="350">Le jors dou saint d<ex rend="italic">e</ex> saint Donis irent,  </l>

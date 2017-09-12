@@ -444,7 +444,6 @@
             <l n="213">Que ge no<ex rend="italic">n</ex> aige tot lor brance to<ex rend="italic"
                   >n</ex>dus."  </l>
          </lg>
-         <!--RECORRECTED TO HERE 10 SEPT 2017-->
          <lg type="laisse" n="9">
             <head>Laisse 9</head>
             <l n="214"><hi rend="blue-initial">E</hi>n celui jor ot l'onor et le pris  </l>
@@ -454,7 +453,7 @@
                   >r</ex>is  </l>
             <l n="218">Qu'il grant hono<ex rend="italic">r</ex> q'avoit Bera<ex rend="italic"
                   >r</ex>t <ex rend="italic">con</ex>q<ex rend="italic">ui</ex>s  </l>
-            <l n="219">Abatus fust <ex rend="italic">et</ex> dou tot dechaïs.  </l>
+            <l n="219">Abatus fust <ex rend="italic">et</ex> dou tot dechaïs  </l>
             <l n="220">Armés des armes e<ex rend="italic">n</ex>sa<ex rend="italic">n</ex>gné a
                   flo<ex rend="italic">r</ex> de lis,  </l>
             <l n="221">Entra au caple, et lui <ex rend="italic">et</ex> li ma<ex rend="italic"
@@ -616,6 +615,7 @@
          </lg>
          <lg type="laisse" n="13">
             <head>Laisse 13</head>
+            <!--Stopped here editing 11 Sept. -->
             <l n="349"><hi rend="blue-initial">L</hi>e rois li otroie li don tot quiteme<ex
                   rend="italic">n</ex>t;  </l>
             <l n="350">Le jors dou saint d<ex rend="italic">e</ex> saint Donis irent,  </l>
