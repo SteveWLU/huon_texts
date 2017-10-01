@@ -1349,7 +1349,7 @@
                   rend="italic">et</ex> divisé,  </l>
             <l n="895">Mais il son grant afere a il tot cellé.  </l>
             <l n="896">Mais une belle cort a stabli <ex rend="italic">et</ex> ordené:  </l>
-            <l n="897">"Jusqa a <num rend="smallcaps">.X.</ex> jor soient, o voir nof, a ma fé;  </l>
+            <l n="897">"Jusqa a <num rend="smallcaps">.X.</num> jor soient, o voir nof, a ma fé;  </l>
             <l n="898">A son pooir chascun sera ben ap<ex rend="italic">re</ex>sté  </l>
             <l n="899">De fere moy honor pur p<ex rend="italic">or</ex> la soe bonté.  </l>
             <l n="900">Puis il m’estuit aler a le besoi<ex rend="italic">n</ex>gn del re,  </l>
@@ -1506,8 +1506,8 @@
             <l n="1000">Come dira l'estoire co<ex rend="italic">m</ex> avreç enta<ex rend="italic"
                   >n</ex>du.  </l>
          </lg>
-         <!--LZM stopped here 30 Sept 2017
-         <lg type="laisse" n="39">
+         <!--LZM stopped here 30 Sept 2017 -->
+   <!-- <lg type="laisse" n="39">
             <head>Laisse 39</head>
             <l n="1001"><hi rend="blue-initial">O</hi>ï aveç, segnor, la me<ex rend="italic"
                >r</ex>veille grant  </l>
