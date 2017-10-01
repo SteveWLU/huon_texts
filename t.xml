@@ -1181,7 +1181,7 @@
                 <l n="642"><seg>senza gra<ex rend="italic">n</ex> dal</seg>mazo a<ex rend="italic"
                         >com</ex>plire no∙l vedemo."</l>
             </lg>
-       <!-- <lg type="laisse" n="26">
+            <lg type="laisse" n="26">
                 <head>Laisse 26</head>
                 <l n="643"><seg>"Lial signor</seg>e," dize ensemble ly .XII. <ex rend="italic"
                         >con</ex>te, </l>
@@ -1397,9 +1397,8 @@
                         >n</ex> tera sta:</l>
                 <l n="775"><seg>aqua et hosele vola</seg>nte e tute le bestie che sone,</l>
                 <l n="776"><seg>zascuna cossa che</seg> sopr<seg>a t</seg>era
-                    abita<seg>rà</seg>,</l> -->
+                    abita<seg>rà</seg>,</l>
                 <!-- #lzm check a on sopra-->
-<!--
                 <l n="777"><anchor resp="Rajna" n="770"/><seg>tute apertene</seg> a my, no<ex rend="italic">n</ex> me∙l date a (i)ntend(e)re zà. </l>
                 <l n="778"><seg>Grande partita e</seg>n consento a quily che m'obedirà</l>
                 <l n="779"><seg>e quily che no<ex rend="italic">n</ex> co</seg>noseno da my gra<ex
@@ -1412,7 +1411,7 @@
                 <l n="782"><anchor resp="Rajna" n="775"/><seg>ora me sonto svegiato, da hora y<ex rend="italic">n</ex>nanzo
                         parerà</seg></l>
                 <l n="783"><seg>se nuy per soa forza del mio me torà.</seg>"</l>
-            </lg> -->
+            </lg>
             <!-- LZM stopped here 30 Sept.2017 -->
         <!--</lg>
             <lg type="laisse" n="31">
