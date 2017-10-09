@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="huon-schema-09062017.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="huon-schema-10092017.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -1878,7 +1878,7 @@
             <l n="1242">Que ja reison nulle autre ni voy."  </l>
             <l n="1243">De te<ex rend="italic">r</ex>re en te<ex rend="italic">r</ex>re vait il
                tant cu<ex rend="italic">m</ex> il poy,  </l>
-            <l n="1244">Plus de <num rend="smallcaps">.III.</n> mois <ex rend="italic">et</ex> dimi, cu<ex rend="italic"
+            <l n="1244">Plus de <num rend="smallcaps">.III.</num> mois <ex rend="italic">et</ex> dimi, cu<ex rend="italic"
                   >m</ex> ge croy,  </l>
             <l n="1245">Non sta d'aler a val, a plagne <ex rend="italic">et</ex> poy.  </l>
             <l n="1246">De le jornees ja pas ni vos diroy;  </l>
@@ -2016,7 +2016,7 @@
             <l n="1342">E feras toe proiere; Diex no<ex rend="italic">n</ex> tegne a noïr,  </l>
             <l n="1343">Et qe toe queste te laist ancor <ex rend="italic">com</ex>plir.  </l>
             <l n="1344">E le p<ex rend="italic">or</ex> moy m'en voil tant avancir  </l>
-            <l n="1345">Jusq<ex rend="italic">ue</ex> a <num rend="smallcaps">.VII.</n> ans savras tant deleisir  </l>
+            <l n="1345">Jusq<ex rend="italic">ue</ex> a <num rend="smallcaps">.VII.</num> ans savras tant deleisir  </l>
             <l n="1346">En tot le bien qe ge avrai tot dir,  </l>
             <l n="1347">Te don la part Diex en aige graïr,  </l>
             <l n="1348">E que ancor tu puises revertir,  </l>
@@ -2041,8 +2041,8 @@
             <l n="1363">Pois demande congieç. Il l'en va beneïr:  </l>
             <l n="1364">"Damediex seit a toy si le vint a plaisir." </l>
          </lg>
-         <!--LZM stopped here 07 October 2017
-         <lg type="laisse" n="51">
+         <!--LZM stopped here 07 October 2017 -->
+         <!-- <lg type="laisse" n="51">
             <head>Laisse 51</head>
             <l n="1365"><hi rend="blue-initial">D</hi>a l'apostoille se part le quue<ex
                   rend="italic">n</ex>s Huon; </l>
