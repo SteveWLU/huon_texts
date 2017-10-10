@@ -105,6 +105,18 @@
                     <note xml:id="t758" type="codic" resp="#LZM"> viva: these last four letters are distinctly different from the other strokes around them. They are smaller, and written above the bottom line of the rest of the verse. Added afterwards, with a different pen? Perhaps originally the end read "li à"? </note>
                     <note xml:id="t762" type="codic" resp="#LZM"> Before "aƣpir" there is a little stroke above the line. However, since there is no caret or other mark to indicate insertion, I do not include it in the text. Rajna: apreso; MS clear has "apresso." </note>
                     <!-- The preceding line needs a second label, Rajna -->
+                    <note xml:id="t786" type="codic" resp="#LZM"> Illumination follows this line. Huon is kneeling before a double-crowned figure on a what seems to be a tiled floor (alternating dark and light), looking at a book that figure is holding open. Other figures are visible to the right, and one stands on the side of Huon, a little to our left  looking at a book. Rajna leaves a bit of a blank but does not summarize the illumination as he does for later folios.</note>
+                    <note xml:id="t799" type="interp" resp="#LZM"> See B 804-805: "Sens, abstin<hi rend="italic">an</hi>ce, proece, tot ingual / In vos habite <hi rend="italic">et</hi> ont pris son hostal." The Turin version is missing a line, "Intelligence, abstinence, ability, all equally..." or something similar, before this line. </note>
+                    <note xml:id="t809" type="Rajna" resp="#LZM">Rajna reverses this and the next line, and numbers in the left margin to indicate the correct order. </note>
+                    <note xml:id="t813" type="codic" resp="#LZM">pi(ù): blot on page at this point: cannot read the letter underneath</note>
+                    <note xml:id="t820" type="Rajna" resp="#LZM">Scattolini notes that vv. 820-821 are reversed in order in comparison with B, creating difficulties in meaning.</note>
+                    <note xml:id="t823" type="Rajna" resp="#LZM"> Rajna notes "altro inch[iostro]/.d. /e mano"; the remaining MS text does not show notable differences, so he must be referring to the initial. The reference for the ".d." is unclear.</note>
+                    <note xml:id="t825" type="Rajna" resp="#LZM">Rajna initially omits this line, then inserts it in the left margin. </note>
+                    <note xml:id="t844" type="Rajna" resp="#LZM"> The capital is like a "G" in capital form in Rajna. </note>
+                    <note xml:id="t854" type="Rajna" resp="#LZM">Rajna has a large ink blot at the beginning of (his) 845-46 that blocks part of the reading, and at the end of his 846, has some difficulties: unclear if "fassemo" and then corrects to "demora" (the "o" has been changed and reinforced). </note>
+                    <note xml:id="t856" type="codic" resp="#LZM">MS: "t(r) a" crossed out after zuro </note>
+                    <note xml:id="t863" type="codic" resp="#LZM"> Before <hi rend="italic">che</hi>: crossed out word </note>
+                    <note xml:id="t864" type="Rajna" resp="#LZM"> <hi rend="italic">ell'era</hi> = "ello era"  </note>
 
                     <!-- <note xml:id="t123" type="Rajna" resp="#LZM"> template </note> -->
             </div>
