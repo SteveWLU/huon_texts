@@ -1611,42 +1611,37 @@
                 <l n="908">(900) <seg>tanto che tuta la zente fose ben venuta;</seg></l>
                 <l n="909"><seg>pasò grande hora de terza ch'el sole volta soa rota.</seg></l>
                 <l n="910"><seg>La zente s'era lavà e a sedere s'erano metute.</seg></l>
-            </lg> -->
-            <!-- LZM stopped here 10 October 2017
-            <lg type="laisse" n="36">
+            </lg>
+                <lg type="laisse" n="36">
                 <head>Laisse 36</head>
                 <l n="911"><seg>A sedere se sono mesy li baron ora y<ex rend="italic"
                         >n</ex>drito</seg></l>
                 <l n="912"><seg>e ly povry</seg> cosỳ zascun s<ex rend="italic">er</ex>vite
                     sono;</l>
-                <l n="913"><seg>a l'onore de</seg> Dio lo conte se conforta.</l>
-                <l n="914"><anchor resp="Rajna" n="905"/><seg>A grand</seg>e e menute la vianda venea;</l>
-                <l n="915"><seg>zasc</seg>un manza de quelo che melio li piaze.</l>
+                <l n="913"><seg>a l'onore de</seg> Dio lo conte se conforta.<note xml:id="t913"/> </l>
+                <l n="914"><anchor resp="Rajna" n="905"/><seg>A grand</seg>e e menute la vianda ve<seg>nea</seg>;</l>
+                <l n="915"><seg>zasc</seg>un manza de quelo che melio <seg>li piaze</seg>.</l>
                 <l n="916">Lo <ex rend="italic">con</ex>te em piè tutora romanea:</l>
                 <l n="917">niente non manzò lo <ex rend="italic">con</ex>te, anze le s<ex
                         rend="italic">er</ex>v<seg>ia</seg>.</l>
                 <l n="918">Oldite che aventura Dio al <ex rend="italic">con</ex>te
                         desti<seg>na</seg>:</l>
-                <l n="919"><anchor resp="Rajna" n="910"/>che la zente de la tera et àno vedut<seg>o un zopo</seg></l> -->
-                <!-- #lzm check o on veduto-->
-<!--
+                <l n="919"><anchor resp="Rajna" n="910"/>che la zente de la tera et àno vedut<seg>o un zopo</seg></l>
                 <l n="920">che y<ex rend="italic">n</ex> pelegrỳ per lo chamỳ venea,</l>
                 <l n="921">che a suo sembiante molto stanco e<seg>l parea.</seg></l> -->
                 <!-- #lzm check l on el-->
-<!--
                 <l n="922">Quando lo <ex rend="italic">con</ex>te lo vite, un suo donzelo
                         <seg>chiamò</seg>:</l>
                 <l n="923">"Va tosto e fa-l montare a chavalo e spa<seg>zate</seg>:</l>
-                <l n="924"><anchor resp="Rajna" n="915"/>condume lo pelegrỳ che più venire <seg>no<ex rend="italic">n</ex>
+                <l n="924"><anchor resp="Rajna" n="915"/>condu-me lo pelegrỳ che più venire <seg>no<ex rend="italic">n</ex>
                         poe.</seg></l>
                 <l n="925">A chavalo tu lo mete e se te'n ven de tr<seg>oto</seg>."</l>
                 <l n="926">E quelo feze suo comandamento che hobe<seg>dire lo volea</seg>.</l>
             </lg>
             <lg type="laisse" n="37">
                 <head>Laisse 37</head>
-                <l n="927">Quel se partỳ quando l'ave oldù su<seg>o signore</seg>, </l> -->
+                <l n="927">Quel se partỳ quando'l avè oldù su<seg>o signore</seg>, </l> -->
                 <!-- #lzm check on suo-->
-<!--
                 <l n="928">a chaval montò senza far gra<ex rend="italic">n</ex>
                     de<seg>mora</seg>.</l>
                 <l n="929"><anchor resp="Rajna" n="920"/> Tanto chavalchò a forza e a gran vig<seg>ore</seg></l>
@@ -1655,7 +1650,6 @@
                 <l n="932">e quelo li dize: "Fiolo de putana, tristo <seg>poltrone</seg>,</l>
                 <l n="933">quando per vuy siè torbeda un<seg>a corte</seg>!</l> -->
                 <!-- #lzm check a on una-->
-<!--
                 <l n="934"><anchor resp="Rajna" n="925"/>Zà tute averesemo disnà e serese<seg>mo a balare</seg></l>
                 <l n="935">e de altre solaze fareve li mazo<seg>re</seg>,</l>
                 <l n="936">e nuy avite torbate per la vos<seg>tra demora</seg>."</l>
@@ -1666,17 +1660,17 @@
                     <seg>montate dedreto a my e guardate da far folor</seg>.</l>
                 <l n="940"><seg>Sì de zò molto pasa el zorno, el sol devala</seg>;</l>
                 <l n="941"><seg>se questo derite, a le mie man morerite.</seg>"</l>
-                <l n="942"><seg>Ho voi elo ho no, quelo l'impromete per vero</seg></l>
+                <l n="942"><seg>Ho voi elo ho no, quelo l'impromete per vero</seg> <note xml:id="t942"/></l>
                 <l n="943"><seg>ch'elo no∙l dirà a omo</seg> nasun de matremonio.</l>
                 <l n="944"><anchor resp="Rajna" n="935"/><seg>Che solo sapese de vero</seg> Ugo<ex rend="italic">n</ex> del
                     suo s<ex rend="italic">er</ex>vidore</l>
                 <l n="945"><milestone n="16V" unit="fol."/>
-                    <seg>che cosa l'era no<ex rend="italic">n</ex> l'averia fato p<ex rend="italic"
+                    <seg>che cosa'l era no<ex rend="italic">n</ex> l'averia fato p<ex rend="italic"
                             >er</ex> l'or d'una tore</seg>,</l>
-                <l n="946"><seg>za un sol piè de tera non andase verso luy p<ex rend="italic"
+                <l n="946"><seg>zà un sol piè de tera non andase verso luy p<ex rend="italic"
                             >er</ex> vero.</seg></l>
                 <l n="947"><seg>Veramente sapiate ch'è∙l diavolo e traditore:</seg></l>
-                <l n="948"><seg>l'ano chazà de fora per a<ex rend="italic">com</ex>pire suo
+                <l n="948"><seg>l'àno chazà de fora per a<ex rend="italic">com</ex>pire suo
                         laboro</seg>,</l>
                 <l n="949"><anchor resp="Rajna" n="940"/><seg>per condure a morte Ugon el bon <ex rend="italic"
                         >con</ex>te</seg>;</l>
@@ -1687,11 +1681,11 @@
                 <l n="953"><seg>E perzò non vole</seg> vendichare <seg>sova honta ancora</seg>;</l>
                 <l n="954"><anchor resp="Rajna" n="945"/><seg>asay la cre</seg>de fare altruy più m<seg>azore</seg>.</l>
             </lg>
+<!--            
             <lg type="laisse" n="38">
                 <head>Laisse 38</head>
                 <l n="955"><seg>D</seg>rito a la corte andono e sono <seg>desendute</seg>;</l> -->
                 <!-- #lzm check D on Drito-->
-<!--
                 <l n="956">posa che desese sono, davante <seg>Ugo<ex rend="italic">n</ex> son
                         venute.</seg></l>
                 <l n="957">Li bero l'acoie, per la man l'avè p<seg>reso</seg>;</l>

@@ -117,7 +117,9 @@
                     <note xml:id="t856" type="codic" resp="#LZM">MS: "t(r) a" crossed out after zuro </note>
                     <note xml:id="t863" type="codic" resp="#LZM"> Before <hi rend="italic">che</hi>: crossed out word </note>
                     <note xml:id="t864" type="Rajna" resp="#LZM"> <hi rend="italic">ell'era</hi> = "ello era"  </note>
-
+                    <note xml:id="t913" type="Rajna" resp="#LZM"> Rajna omits this line initially and inserts it later in the right margin. </note>
+                    <note xml:id="t942" type="codic" resp="#LZM"> Illumination follows this line. Much of the color is gone: to the far right a ruler under a baldicchino throne wearing a hat with two levels (the upper recessed in relation to the lower) sits while a male figure in parti-colored tights to the viewer's left with his back to the reader holds something in his arms; another figure further to the reader's left is partially visible. </note>
+                    
                     <!-- <note xml:id="t123" type="Rajna" resp="#LZM"> template </note> -->
             </div>
         </body>
