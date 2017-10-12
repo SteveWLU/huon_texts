@@ -1628,7 +1628,7 @@
                         desti<seg>na</seg>:</l>
                 <l n="919"><anchor resp="Rajna" n="910"/>che la zente de la tera et àno vedut<seg>o un zopo</seg></l>
                 <l n="920">che y<ex rend="italic">n</ex> pelegrỳ per lo chamỳ venea,</l>
-                <l n="921">che a suo sembiante molto stanco e<seg>l parea.</seg></l> -->
+                <l n="921">che a suo sembiante molto stanco e<seg>l parea.</seg></l>
                 <!-- #lzm check l on el-->
                 <l n="922">Quando lo <ex rend="italic">con</ex>te lo vite, un suo donzelo
                         <seg>chiamò</seg>:</l>
@@ -1640,7 +1640,7 @@
             </lg>
             <lg type="laisse" n="37">
                 <head>Laisse 37</head>
-                <l n="927">Quel se partỳ quando'l avè oldù su<seg>o signore</seg>, </l> -->
+                <l n="927">Quel se partỳ quando'l avè oldù su<seg>o signore</seg>,</l>
                 <!-- #lzm check on suo-->
                 <l n="928">a chaval montò senza far gra<ex rend="italic">n</ex>
                     de<seg>mora</seg>.</l>
@@ -1648,7 +1648,7 @@
                 <l n="930">che al pelegrỳ arivò a l'ombria d'un a<seg>rboro</seg>.</l>
                 <l n="931">Quelo no∙l salutò né ponto né miga, né l<seg>uy ancora</seg>,</l>
                 <l n="932">e quelo li dize: "Fiolo de putana, tristo <seg>poltrone</seg>,</l>
-                <l n="933">quando per vuy siè torbeda un<seg>a corte</seg>!</l> -->
+                <l n="933">quando per vuy siè torbeda un<seg>a corte</seg>!</l>
                 <!-- #lzm check a on una-->
                 <l n="934"><anchor resp="Rajna" n="925"/>Zà tute averesemo disnà e serese<seg>mo a balare</seg></l>
                 <l n="935">e de altre solaze fareve li mazo<seg>re</seg>,</l>
@@ -1680,11 +1680,10 @@
                 <l n="952"><seg>a molta zente crede hoze fare desenore</seg>.</l>
                 <l n="953"><seg>E perzò non vole</seg> vendichare <seg>sova honta ancora</seg>;</l>
                 <l n="954"><anchor resp="Rajna" n="945"/><seg>asay la cre</seg>de fare altruy più m<seg>azore</seg>.</l>
-            </lg>
-<!--            
+            </lg>    
             <lg type="laisse" n="38">
                 <head>Laisse 38</head>
-                <l n="955"><seg>D</seg>rito a la corte andono e sono <seg>desendute</seg>;</l> -->
+                <l n="955"><seg>D</seg>rito a la corte andono e sono <seg>desendute</seg>;</l>
                 <!-- #lzm check D on Drito-->
                 <l n="956">posa che desese sono, davante <seg>Ugo<ex rend="italic">n</ex> son
                         venute.</seg></l>
@@ -1741,6 +1740,7 @@
                 <l n="993"><seg>como conta l</seg>'enstoria qu<seg>ando l'averite y<ex rend="italic"
                             >n</ex>tesa</seg>.</l>
             </lg>
+<!--
             <lg type="laisse" n="39">
                 <head>Laisse 39</head>
                 <l n="994"><anchor resp="Rajna" n="985"/><seg>Oldi</seg>te, signore, la merav<seg>ia grande</seg></l>
