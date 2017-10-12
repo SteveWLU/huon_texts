@@ -34,14 +34,14 @@
         </front>
         <body>
             <div>
-                    <note xml:id="t1.2" type="biblio" resp="#LZM">Also transcribed by Holtus (2001), pp. 48-50, lines 1-109; Pasinus, 1-10; Peyron 1-16; Graf (1878) 1-72.</note>
-                    <note xml:id="t4" type="Rajna" resp="#LZM">Rajna here places a description of the miniature: Min. 1. un re (tutto army) e p..t... altre figure; non intendo bene l'imagin/ Yug. dirige un psonag/ porge un breve/ ad un altro ch 'è/ inginocchiato/ forse l'invito di uon a corte </note>
-                    <note xml:id="t5" type="Rajna" resp="#LZM">Numbers in Rajna's notebook are in pencil, added later.</note>
-                    <note xml:id="t7" type="codic" resp="#LZM">Rajna: 2r. The manuscript began on a recto when he saw it, with 6 lines: 4 followed by a miniature, with two more following it. Here is the beginning of today's MS.</note>
-                    <!-- 7 needs to be characterized also by Rajna -->
-                    <note xml:id="t10" type="Rajna" resp="#LZM">In Rajna's transcription, "y." somewhat after "el" above the line.</note>
-                    <note xml:id="t22" type="Rajna" resp="#LZM">Rajna notes "sic" after <hi rend="italic">vevole</hi>.</note>
-                    <note xml:id="t23" type="edit" resp="#LZM">Holtus: los. "y" crossed out; Rajna: "caratt. più picc / forte aggiunte fatte / poi –i =" (marginal note).
+                <note xml:id="t1.2" type="biblio" resp="#LZM">Also transcribed by Holtus (2001), pp. 48-50, lines 1-109; Pasinus, 1-10; Peyron 1-16; Graf (1878) 1-72.</note>
+                <note xml:id="t4" type="Rajna" resp="#LZM">Rajna here places a description of the miniature: Min. 1. un re (tutto army) e p..t... altre figure; non intendo bene l'imagin/ Yug. dirige un psonag/ porge un breve/ ad un altro ch 'è/ inginocchiato/ forse l'invito di uon a corte </note>
+                <note xml:id="t5" type="Rajna" resp="#LZM">Numbers in Rajna's notebook are in pencil, added later.</note>
+                <note xml:id="t7" type="codic" resp="#LZM">Rajna: 2r. The manuscript began on a recto when he saw it, with 6 lines: 4 followed by a miniature, with two more following it. Here is the beginning of today's MS.</note>
+                <!-- 7 needs to be characterized also by Rajna -->
+                <note xml:id="t10" type="Rajna" resp="#LZM">In Rajna's transcription, "y." somewhat after "el" above the line.</note>
+                <note xml:id="t22" type="Rajna" resp="#LZM">Rajna notes "sic" after <hi rend="italic">vevole</hi>.</note>
+                <note xml:id="t23" type="edit" resp="#LZM">Holtus: los. "y" crossed out; Rajna: "caratt. più picc / forte aggiunte fatte / poi –i =" (marginal note).
                     <note xml:id="t45" type="Rajna" resp="#LZM"> Rajna, note in right margin (sic). B: <hi rend="italic">Anchois le haete la giant d[e] la [con]trie.</hi> T seems to be missing the verb, "odia"; an emeded reading might be <hi rend="italic">anzo li (odi)a la zente de la contrà.</hi></note>
                     <note xml:id="t63" type="Rajna" resp="#LZM"> Rajna note: "prima soa e così / parrebbe ancora / non credo si [tr?] /volz corregg".</hi></note>
                     <note xml:id="t66" type="Rajna" resp="#LZM"> Rajna reverses these two lines, and uses numbering in the left margin to make clear their order.</note>
@@ -119,6 +119,55 @@
                     <note xml:id="t864" type="Rajna" resp="#LZM"> <hi rend="italic">ell'era</hi> = "ello era"  </note>
                     <note xml:id="t913" type="Rajna" resp="#LZM"> Rajna omits this line initially and inserts it later in the right margin. </note>
                     <note xml:id="t942" type="codic" resp="#LZM"> Illumination follows this line. Much of the color is gone: to the far right a ruler under a baldicchino throne wearing a hat with two levels (the upper recessed in relation to the lower) sits while a male figure in parti-colored tights to the viewer's left with his back to the reader holds something in his arms; another figure further to the reader's left is partially visible. </note>
+                    <note xml:id="t964" type="Rajna" resp="#LZM"> Rajna: piuue? piude? piuie?  B: cu[n] estre puisent plu. The final strokes of Rajna's handwritten copy are not clear. </note>
+                    <note xml:id="t973" type="codic" resp="#LZM"> MS: fustue? </note>
+                    <note xml:id="t982" type="codic" resp="#LZM">Illumination follows. Rajna: "Figura. "La e più bella d'ussai fin qui trovata è doppia con una sola scena / a destra il palazzo con due torri, dall'usero si vede nel portony Ugo/ benedire le vivande della tavola a cui siede il pilgri_ a sinistra/ si vede in alto un diavolo che vola colla tavola, e sotto fuori dall'uscio/ Ugo e altri che guardon su con atti di meraviglia _ una donna sta / meraviglij o piuttosto atterita a una finestra _ c'è espressione </note>
+                    <note xml:id="t992" type="Rajna" resp="#LZM"> Rajna seems to have "lafu" crossed out before the final "lafu," whether correcting his own error or one of the MS is unclear. </note>
+                    <note xml:id="t1040" type="Rajna" resp="#LZM"> Rajna: <hi rend="italic">per</hi> has a dot above the "r" but this appears to be an imperfection of the paper. </note>
+                    <note xml:id="t1053" type="Rajna" resp="#LZM"> Here Graf transcribes 5 lines. Rajna: "lo @te" crossed out after "Quando." </note>
+                    <!-- The preceding line needs a second label, Interp -->
+                    <note xml:id="t1062" type="Rajna" resp="#LZM"> MS: grand; Rajna: grand; there is a final something below the line: "o"? B: <hi rend="italic">brand da galons</hi>, which makes much more sense.</note>
+                    <!-- The preceding line needs a second label, Interp -->
+                    <note xml:id="t1083" type="interp" resp="#JCV">  Nil temere uxori de servis crede querenti :/ Semper enim mulier quem coniux diligit odit./ <hi rend="italic">Catonis Disticha</hi>, I, 8 (Éd. E. Baehrens, <hi rend="italic">Poetae latini minores</hi>, III, Leipzig, Teubner, 1881). / « Ne crois pas à la légère une épouse qui se plaint de tes esclaves, car une femme déteste toujours celui que son mari apprécie ». </note>
+                    <note xml:id="t1084" type="codic" resp="#LZM">After "lasa", scratched out "le". </note>
+                    <note xml:id="t1086" type="Rajna" resp="#LZM"> Rajna: cħ (in the margin) ᵱocho (chy) non li feze; Rajna note: "scritt. orig/ tutto correz." B: <hi rend="italic">A pués qu'il non li a feit.</hi> My emendation for sense. </note>
+                    <note xml:id="t1088" type="Rajna" resp="#LZM"> Rajna: si, "s" written over "l." </note>
+                    <note xml:id="t1103" type="codic" resp="#LZM">MS: <hi rend="italic">aldare</hi>. The second letter is an odd combination, a long stroke with a small cross at the "t" level that curves slightly to the right, but not enough to be an "s"; there is not a separated dot so Rajna's "i" does not seem likely. </note>
+                    <note xml:id="t1135" type="codic" resp="#LZM"> Illumination follows: Ugon standing by box? bed? with black figure flat. (Rajna: "Ug s'arma al letto della moglie addormenty.") </note>
+                    <!-- The preceding line needs a second label, Rajna -->
+                    <note xml:id="t1135" type="codic" resp="#LZM"> <hi rend="italic">cobia</hi> = "commiato"; cf. B, congieç. </note>
+                    <note xml:id="t1152" type="Rajna" resp="#LZM">Rajna: choro. MS reading is clear, however, there is no "h". </note>
+                    <note xml:id="t1162" type="interp" resp="#LZM"> Graf transcribes five lines beginning here. </note>
+                    <note xml:id="t1169" type="interp" resp="#LZM"> Graf, p. 103.</note>
+                    <note xml:id="t1171" type="interp" resp="#LZM"> Graf: m[i]o, emendation. </note>
+                    <note xml:id="t1181" type="interp" resp="#LZM"> Graf omits ll. 1185-1187; Rajna includes them.</note>
+                    <!-- The preceding line needs a second label, Rajna -->
+                    <note xml:id="t1185" type="Rajna" resp="#LZM"> Rajna omits this line initially, then inserts in the right margin.</note>
+                    <note xml:id="t1236" type="Rajna" resp="#LZM"> Rajna note, "corr. da smary; st. / mano" = stesso mano (same hand).</note>
+                    <note xml:id="t1242" type="Rajna" resp="#LZM"> Rajna note, "corr./ da schiary/ st. mano" = stesso mano (same hand). </note>
+                    <note xml:id="t1245" type="Rajna" resp="#LZM"> Rajna note, "corr. da desparty/ st. mano" = stesso mano (same hand). </note>
+                    <note xml:id="t1249" type="Rajna" resp="#LZM">Rajna note, "corr. da monte / st. m." The structure here is not totally clear: since the third person plural is rare, should this be "montò-ne" for something like "mounted on them," or is it indeed third person plural?</note>
+                    <!-- The preceding line needs a second label, interp -->
+                    <note xml:id="t1264" type="codic" resp="#LZM"> Illumination follows: an encircled area (paddock?) and a house with what seems to be a straw roof; a stands man in the entry and the head and neck of the horse in front of him (to the reader's right) with an armed man riding it, just visible before the burned section. Rajna: "U arriva alla casa del borghese". </note>
+                    <!-- The preceding line needs a second label, Rajna -->
+                    <note xml:id="t1267" type="Rajna" resp="#LZM"> Rajna: giesie. </note>
+                    <note xml:id="t1272" type="Rajna" resp="#LZM"> Rajna initially omits this line and adds it afterward in the left margin. </note>
+                    <note xml:id="t1274" type="interp" resp="#LZM"> Apostolo: the Pope. Cf. B and other Franco-Italian Apostoille.  </note>
+                    <note xml:id="t1276" type="codic" resp="#LZM"> The rest of the folio is blank. There is part of the catchword at the bottom of the page, "denan". Rajna also notes the space: "nuovo quad: iniz più grande tracij?/ in lapis" </note>
+                    <note xml:id="t1283" type="Rajna" resp="#LZM"> Rajna seems to have been having difficulties with his pen / ink here; he has a large "D" here at the beginning of this line; or perhaps he is seeking to show the larger "D" as mentioned in his note. </note>
+                    <note xml:id="t1286" type="Rajna" resp="#LZM"> Rajna: ī ? There is no dot on the the letter, so I have transcribed as an "e" though there is no circle around either. Illumination follows: Huon on his knees before the Pope in a very elaborate room with a coffered ceiling. Rajna, "Ug (piviro) ai piedi di un papa gig. Le iniz. sequit a ess transcritte in qto quaderno e manteng spesso la st. grandezza /le segnorò maiuscole." </note>
+                    <!-- The preceding line needs a second label, interp -->
+                    <note xml:id="t1289" type="interp" resp="#LZM"> Graf transcribes 11 lines from here. Note that here the new folio in B (F 10) coincides with Turin's new folio. </note>
+                    <note xml:id="t1291" type="Rajna" resp="#LZM"> Rajna notes, "copto / da una / carta / infra..y". Nothing is now visible before line 1297. </note>
+                    <note xml:id="t1296" type="interp" resp="#LZM"> B: nue home si bien non. </note>
+                    <note xml:id="t1300" type="interp" resp="#LZM"> The trascriber had not understood here: it's an impossible thing, not not impossible! </note>
+                    <note xml:id="t1308" type="interp" resp="#LZM">MS: dezo nona ho; Rajna: dezo nona homo; B: qu'il non se feit adon, "that this not be done now." </note>
+                    <note xml:id="t1310" type="Rajna" resp="#LZM"> Rajna: homo with the "h" crossed through. </note>
+                    <note xml:id="t1312" type="Rajna" resp="#LZM"> Rajna initially omits this line and inserts later in the left margin.  </note>
+                    <note xml:id="t1314" type="interp" resp="#LZM"> The end of Rajna's line in undeciphrable here; however, since "sabione" appears four times and there are no other expressions beginning with "sab" this seems most logical.</note>
+                    <note xml:id="t1341" type="codic" resp="#LZM"> MS: space between "crosse" and "che": word scraped out? Nothing visible. </note>
+                    <note xml:id="t1343" type="Rajna" resp="#LZM"> Rajna: corr. da sigre? </note>
+                    <note xml:id="t1345" type="Rajna" resp="#LZM"> Rajna initially omits and then inserts in left margin. </note>
                     
                     <!-- <note xml:id="t123" type="Rajna" resp="#LZM"> template </note> -->
             </div>
