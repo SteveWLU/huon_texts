@@ -7665,19 +7665,20 @@
                 <l n="6519">Neither Medea nor Helen was as beautiful,</l>
                 <l n="6520">Nor is there anyone like her from here all the way to Brittany.</l>
                 <l n="6521">She is the queen of necromancy:</l>
-                <l n="6522">She knows more about it, I tell you without delay,</l>
+                <l n="6522">She knows more about it, I tell you without deception,</l>
                 <l n="6523">Than many instructors from Toledo in Spain might know.</l>
-                <l n="6524">I'll tell you truthfully, without deceit</l>
+                <l n="6524">I'll tell you truthfully, without lying</l>
                 <l n="6525">About the marvels that your heart might scorn."</l>
                 <l n="6526">(Laisse 254) "Furthermore, vassal, I'll tell you whatever you wish to
                     know:</l>
-                <l n="6527">Our ancestors, who made themselves an abode of [this place],</l>
-                <l n="6528">Had us settle and remain here;</l>
-                <l n="6529">They were from France, from that glorious dwelling-place;</l>
+                <l n="6527">Our ancestors, who had us settle and remain here</l>
+                <l n="6528">In such an abode,</l>
+                <l n="6529">Were from France, from that glorious dwelling-place.</l>
                 <l n="6530">At that time when Alexander set his troops in motion</l>
                 <l n="6531">In order to possess the entire world,</l>
-                <l n="6532">Well, he came here to see these trees,168</l>
-                <l n="6533">And so that they tell the truth concerning his fate.</l>
+                <l n="6532">And he came here to see these trees</l>
+                <!--NOTE Part of the Alexander legend: according to the <em>Roman d'Alexandre</em>, the trees of the sun and moon could prophesy the future and told him that he would die. See the <em>Roman</em>, Branch III, sections 207-216 (pp. 529-539 in <em>Alexandre de Paris. Le Roman d'Alexandre</em>, trans. And ed. by Laurence Harf-Lancner, based on the E.C. Armstrong et al. text, Paris: Livre de poche, 1994). -->
+                <l n="6533">So that they tell the truth concerning his fate,</l>
                 <l n="6534">Through force and through necessity, the peers of France</l>
                 <l n="6535">Came to send him tribute and great riches.</l>
                 <l n="6536">Three hundred envoys, each one with great authority,</l>
@@ -7685,18 +7686,21 @@
                 <l n="6538">To see and meet Alexander.</l>
                 <l n="6539">They brought maidens and officers and riches;</l>
                 <l n="6540">Once they had passed where King Porus reigns,</l>
-                <l n="6541">They followed close behind Alexander's fleet.</l>
+                <l n="6541">They followed close behind Alexander's army.</l>
                 <l n="6542">But one evening the path ran out;</l>
                 <l n="6543">While they saw it, they couldn't follow it.</l>
                 <l n="6544">Among these woods, indeed, over in this direction,</l>
                 <l n="6545">There is a city that belonged to Duke Saloire;</l>
-                <l n="6546">All the others near that kingdom of glory</l>
+                <l n="6546">All the others near that splendid kingdom</l>
                 <l n="6547">Didn't amount to the value of a single pear.</l>
                 <l n="6548">There one finds the best food and drink;</l>
-                <l n="6549">(Folio 46 Rb) All spices bloom there, [including] mandrake.169</l>
+                <l n="6549">(Folio 46 Rb) All spices bloom there, [including] mandrake.</l>
+                <!--NOTE Reference to the "mandragore" mentioned in the Alexander legend, which is found near the trees of the flower maidens (Branch III, strophe 189). -->
                 <l n="6550">If you go there (there is no disbelieving this),</l>
-                <l n="6551">You could never get enough;170</l>
-                <l n="6552">We never have trouble only providing that we take care.</l>
+                <l n="6551">You could never get enough;</l>
+                <!--NOTE Literally: You couldn't satisfy your mind -->
+                <l n="6552">We never have trouble, except for priests.</l>
+                <!--NOTE If <em>prevoire</em> means "prepare, show foresight, plan well" a possible alternate translation would be: We never have trouble only providing that we take care -->
                 <l n="6553">(Laisse 255) Furthermore, vassal, I tell you, if you go there</l>
                 <l n="6554">To see this lady of great power,</l>
                 <l n="6555">You wouldn't be able to leave in the morning.</l>
@@ -7707,11 +7711,12 @@
                 <l n="6560">They stayed there, until their end.</l>
                 <l n="6561">From them were born girls and boys,</l>
                 <l n="6562">With whom this, our territory, was populated.</l>
-                <l n="6563">From this land you can take away the means</l>
-                <l n="6564">With which you can completely accomplish your quest.</l>
+                <l n="6563">From this land you can take away the information</l>
+                <l n="6564">With which you can accomplish your entire quest.</l>
                 <l n="6565">The noble lady to whom we are devoted</l>
                 <l n="6566">Is very knowledgeable in magic.</l>
-                <l n="6567">If you can get close to her,172</l>
+                <l n="6567">If you can get close to her,</l>
+                <!--NOTE Literally: If you can consider her a neighbor. See T 6256: Se tu te say acostare a ley vesin -->
                 <l n="6568">You will have land and control of land.</l>
                 <l n="6569">And then you will know everything you have to do,</l>
                 <l n="6570">How you might enter [the land of] the fallen angels."</l>
@@ -11687,8 +11692,7 @@
                 <l n="10371">Judgement—He who suffered anguish</l>
                 <l n="10372">In order to save everyone from the everlasting shadow.</l>
                 <l n="10373">He who receives a favorable [judgement] will have a happy final hour;</l>
-                <l n="10374">He who doesn't prepare for it, let him believe [it], it will go very badly for him.</l>-->
-                <!--NOTE Literally: He who awaits it. If croie were to be transcribed ci die ("that day") with no following comma, the line would translate "He who doesn't prepare for it, that day will go very badly for him" -->
+                <l n="10374">He who doesn't prepare for it, I believe, it will go very badly for him.</l>
                 <l n="10375">His singing means the same as</l>
                 <l n="10376">That of the oriole that laments its little chicks.</l>
                 <l n="10377">But their pain is acute and mortal;</l>
