@@ -1725,6 +1725,7 @@
                 <l n="1324">Then, above all, he placed confidence in me, therefore</l>
                 <l n="1325">I am truly obliged to make an effort to accomplish his purpose,</l>
                 <l n="1326">And I insist on doing it, without any proof to the contrary.</l>
+                <!--NOTE Literally: ... without bad circumstances -->
                 <l n="1327">I will never be against King Charles;</l>
                 <l n="1328">Either I will carry out his wishes, or indeed I will die;</l>
                 <l n="1329">I cannot follow any other path at this time.</l>
@@ -1750,6 +1751,7 @@
                 <l n="1344">And I, for my part, wish to promise this:</l>
                 <l n="1345">For seven years you will be able to count on</l>
                 <l n="1346">This advantage that I will explain:</l>
+                <!--NOTE The pope seems to be saying that Huon can leave his spiritual good in his care as he will be praying for him for seven years. -->
                 <l n="1347">I grant you a gift (may God consent to it),</l>
                 <l n="1348">And may you be able to return one day</l>
                 <l n="1349">In fact to your lord just as you desire,</l>
@@ -1787,6 +1789,7 @@
                     dallied;</l>
                 <l n="1377">He traveled for a long time through hills and mountains,</l>
                 <l n="1378">Until he arrived in Sicily, but did not stay long,</l>
+                <!--NOTE Could this possibly be a reference to or confusion with Cilicia, a pagan land? See Moisan, <em>Répertoire des noms propres</em>, Tome II Volume 3 (Droz: 1986), p. 872. On the other hand, Huon's next stop is Calabria, so Sicily is more likely the translation. -->
                 <l n="1379">Concerning his quest, he could find no one</l>
                 <l n="1380">Who would tell him the truth; on the contrary, they took him for a
                     madman!</l>
@@ -1803,6 +1806,8 @@
                 <l n="1388">He beat his breast because of the many sins that lay upon him;</l>
                 <l n="1389">He never ceased reciting every prayer he knew.</l>
                 <l n="1390">He began the Magnificat animam domine,</l>
+                <!--BOLD Magnificat animam domine -->
+                <!--NOTE My soul magnifies the Lord. -->
                 <l n="1391">And he chanted and recited it to the very end;</l>
                 <l n="1392">Not even in the face of distress or danger did he ever stop,</l>
                 <l n="1393">So that he chanted it well, since had so much time to do so.</l>
@@ -1840,6 +1845,7 @@
                 <l n="1419">That was about to leave to rob and pillage</l>
                 <l n="1420">As was their custom(there were many of them pledged together</l>
                 <l n="1421">Who lived on nothing other than evil deeds.</l>
+                <!--NOTE That is, piracy against those they happen upon. -->
                 <l n="1422">When they saw the count coming up the road,</l>
                 <l n="1423">The group's master remarked to them:</l>
                 <l n="1424">"We will have gained some excellent merchandise</l>
@@ -1890,6 +1896,7 @@
                 <l n="1465">We don't trust you or your supposed goodness;</l>
                 <l n="1466">When we want our pay upon arrival at the port,</l>
                 <l n="1467">You will not run away there for that reason.</l>
+                <!--NOTE That is, because of his supposed madness. -->
                 <l n="1468">Give us all your wealth(we'll put you in our brig,</l>
                 <l n="1469">And it will truly go well with you if you ever escape alive."</l>
             </lg>
@@ -2031,6 +2038,7 @@
                 <l n="1584">This we now understand well; and, yes, without indeed any deceit,</l>
                 <l n="1585">May God, the son of holy Mary, permit us</l>
                 <l n="1586">Not to lose our souls by this false path."</l>
+                <!--NOTE Play on words, "via/vita" in Italian, or "vie/voie" in French. -->
                 <l n="1587">Then the count said, "We are indeed at peace."</l>
             </lg>
             <lg type="laisse" n="59">
@@ -2063,6 +2071,7 @@
                 <l n="1609">With a truly grateful heart he thanked God yet again,</l>
                 <l n="1610">And was doing it as always with weeping and tears.</l>
                 <l n="1611">Then he made the sign of the cross in the name of God the Creator.</l>
+                <!--NOTE <em>Seigner son vis</em> will always be translated as "to make the sign of the cross" or "to cross himself." -->
                 <l n="1612">He entered Athens feeling both buoyant and joyful,</l>
                 <l n="1613">Bringing Samson with him and many others from the crew.</l>
                 <l n="1614">The others he left to watch the horses</l>
@@ -2175,6 +2184,7 @@
                 <l n="1701">How four Christian kings have been besieging Jerusalem</l>
                 <l n="1702">For a year and a half already, for people knew for certain</l>
                 <l n="1703">That they would not surrender for anything,</l>
+                <!--NOTE Literally: That they wouldn't surrender for the worth of a spur -->
                 <l n="1704">For otherwise their people would be destroyed by Slavs.</l>
             </lg>
             <lg type="laisse" n="63">
@@ -2256,6 +2266,7 @@
                 <l n="1771">Huon was reassured by this first assault;</l>
                 <l n="1772">Moderation is good and so is fear many times;</l>
                 <l n="1773">These cowards were worth more than fifty-three of the others.</l>
+                <!--NOTE The narrator is impressed with how well the men following Huon's example fight despite their fear. -->
             </lg>
             <lg type="laisse" n="66">
                 <head>Laisse 66</head>
@@ -2406,8 +2417,9 @@
                 <l n="1895">When Huon saw the barons before him</l>
                 <l n="1896">All offering themselves to him without restraint</l>
                 <l n="1897">To serve him well with good intention,</l>
-                <l n="1898">The nobleman wept much from the eyes in his face,</l>
-                <l n="1899">Knelt humbly, looked down at the ground,</l>
+                <l n="1898">Tears streamed down the nobleman's face,</l>
+                <!--NOTE Literally: The nobleman wept much from the eyes in his face -->
+                <l n="1899">He knelt humbly, looked down at the ground,</l>
                 <l n="1900">And wanted to kiss the feet of each and every one of them.</l>
                 <l n="1901">They would not allow this, and raised him up again:</l>
                 <l n="1902">"You must not do this, for God's sake, most noble man!</l>
@@ -2457,7 +2469,7 @@
                 <l n="1940">I am not so important nor should I be;</l>
                 <l n="1941">I am a servant; you are lords and kings.</l>
                 <l n="1942">For this reason it is fitting that I lodge somewhere</l>
-                <l n="1943">That is inferior. As for this task, I believe</l>
+                <l n="1943">That is inferior.<!--NOTE The original text has a double negative. --> As for this task, I believe</l>
                 <l n="1944">I won't tell you more at this point;</l>
                 <l n="1945">On the contrary, I urge you(if you see any other task,</l>
                 <l n="1946">If you have something to be done that is troubling you,</l>
@@ -2465,6 +2477,7 @@
                 <l n="1948">I'll advise you and tell you in good faith.</l>
                 <l n="1949">If not, I want to leave right away;</l>
                 <l n="1950">I have too much to do, God surely knows the worst.</l>
+                <!--NOTE Translation is based on understanding <em>sorpoy</em> as "sordoy." The latter appears in <em>Guerra d'Attila</em> (II, 1272), another Franco-Italian text. -->
                 <l n="1951">I have been on a quest now for several months;</l>
                 <l n="1952">Nor will I accomplish my task before at least three years have
                     passed</l>
@@ -2508,7 +2521,8 @@
                 <l n="1986">While those who were to mount guard did so.</l>
                 <l n="1987">The four kings explained the situation clearly,</l>
                 <l n="1988">About those of Jerusalem who didn't fear an attack:</l>
-                <l n="1989">They would not give themselves up if famine did not reach them.</l>
+                <l n="1989">They would not give themselves up if they are not starved out.</l>
+                <!--NOTE Literally: [...] if famine did not reach them -->
                 <l n="1990">Whoever had advice to give, now let him present it.</l>
             </lg>
             <lg type="laisse" n="74">
