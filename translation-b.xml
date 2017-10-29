@@ -52,7 +52,7 @@
                     <name type="country">USA</name>
                 </address>
                 <availability status="free">
-                    <p>The Huon Digital Archive project, funded by the National Endowment for the Humanities, 
+                    <p>The Huon Digital Archive project, funded by the National Endowment for the Humanities,
                         offers freely on a non-commercial basis the text of each edition and the accompanying
                         English translation . The appropriate editor or translator must be cited when
                         referencing the texts. The images are not available for
@@ -168,6 +168,7 @@
         <body>
             <lg type="laisse" n="1">
                 <head>Laisse 1</head>
+                TEST TEST TEST
                 <l n="1"><milestone n="1Ra" unit="fol."/>In the springtime<note xml:id="trans1"/>
                     when all the fields</l>
                 <l n="2">Are green again, as well as the laurel trees and bushes,</l>
@@ -13795,7 +13796,7 @@
                     <name type="country">USA</name>
                 </address>
                 <availability status="free">
-                    <p>The Huon Digital Archive project, funded by the National Endowment for the Humanities, 
+                    <p>The Huon Digital Archive project, funded by the National Endowment for the Humanities,
                         offers freely on a non-commercial basis the text of each edition and the accompanying
                         English translation . The appropriate editor or translator must be cited when
                         referencing the texts. The images are not available for
