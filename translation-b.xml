@@ -7794,51 +7794,62 @@
                 <l n="6565">The noble lady to whom we are devoted</l>
                 <l n="6566">Is very knowledgeable in magic.</l>
                 <l n="6567">If you can get close to her,</l>
-                <!--NOTE Literally: If you can consider her a neighbor. See T 6256: Se tu te say acostare a ley vesin -->
+                <!--NOTE Literally: If you can consider her a neighbor. Cf. T 6256: Se tu te say acostare a ley vesin -->
                 <l n="6568">You will have land and control of land.</l>
                 <l n="6569">And then you will know everything you have to do,</l>
                 <l n="6570">How you might enter [the land of] the fallen angels."</l>
+<<<<<<< HEAD
+                <l n="6571">(Laisse 256) "May it not please God," answered Count Huon,</l>
+                <l n="6572">"That I ever abandon [my] purpose through misbehavior,</l>
+                <l n="6573">Nor that I love a woman when I have so much reason</l>
+                <l n="6574">To love Him without any betrayal.</l>
+                <l n="6575">He will never have any occasion owing to my misdeeds</l>
+=======
             <!--<l n="6571">(Laisse 256) "May it not please God," answered Count Huon,</l>
                 <l n="6572">"That trickery ever be stirred up through blunder,</l>
                 <l n="6573">Nor [that it be stirred up] against my wife concerning whom I have so
                     much reason</l>
                 <l n="6574">To love her without any betrayal.</l>
                 <l n="6575">She will never have any occasion owing to my misdeeds</l>
+>>>>>>> d38b64099efbfbc97a33855c11c2277ddb8924ed
                 <l n="6576">To act any way but well toward me,</l>
-                <l n="6577">For I have no wish to have discourse with the Devil.</l>
+                <l n="6577">For I have no wish to make words of the Devil.</l>
                 <l n="6578">But I will certainly come to your dwelling,</l>
                 <l n="6579">In order to see your lady [and] speak to your barons;</l>
                 <l n="6580">None of her magic or any lesson</l>
+                <!--NOTE Cf. T 6269 which has <em>carne</em> (flesh).  Could this be a play on words between "charme" and "carne"? -->
                 <l n="6581">Can make me change my intention.</l>
                 <l n="6582">This thing that I'm asking about,</l>
                 <l n="6583">I know [it's] impossible, and I know it well,</l>
-                <l n="6584">Indeed it doesn't please the Lord of Heaven.</l>
+                <l n="6584">If it doesn't please the Lord of Heaven.</l>
                 <l n="6585">Scripture speaks of it, we know that well.</l>
-                <l n="6586">(Folio 46 Va) It can truly reveal to me when I am not in darkness,</l>
+                <l n="6586">(Folio 46 Va) They can truly reveal to me shadows that don't exist,</l>
+                <!--NOTE There seems to be a problem here in the manuscript. Cf. T 6275: ben me posite mostrare ombre chy no[n] <em>sono</em>-->
                 <l n="6587">However I clearly must be there in person</l>
-                <l n="6588">And relate my mission to [the Devil] for Charles.</l>
+                <l n="6588">And relate my message to [the Devil] for Charles.</l>
                 <l n="6589">I know well this cannot be; you speak in vain.</l>
                 <l n="6590">But I am quite troubled about something:</l>
                 <l n="6591">I fear that in these parts where I now am,</l>
                 <l n="6592">There are no living creatures other than spirits.</l>
                 <l n="6593">In parting from me, Tadeus in Libya</l>
-                <l n="6594">Swore to me, having heard [it from] many worthy men,</l>
+                <l n="6594">Swore to me in the presence of many worthy men,</l>
                 <l n="6595">That in this region here where I have come,</l>
-                <l n="6596">I would find no one from a true nation.</l>
+                <l n="6596">I would find no one of normal birth.</l>
                 <l n="6597">Almost two months while I have been wandering in misery,</l>
                 <l n="6598">I have found nothing except for evil beasts</l>
                 <l n="6599">And vermin, of which there has been an abundance.</l>
                 <l n="6600">I have suffered greatly much hardship;</l>
-                <l n="6601">How can this be, how can you live</l>
-                <l n="6602">In a savage place where no one can find there anything good?"</l>
+                <l n="6601">How can this be, that you live</l>
+                <l n="6602">In a savage place from which no one takes anything good?"</l>
                 <l n="6603">They said, "Vassal, we have told you</l>
-                <l n="6604">What people we are and what our way of life is.</l>
+                <l n="6604">What people we are and what [kind of] life we lead.</l>
                 <l n="6605">We have both body and soul together,</l>
-                <l n="6606">And if you have no doubt about that,</l>
-                <l n="6607">Touch us on the sides and chin;</l>
+                <l n="6606">And if you have any doubt about that,</l>
+                <l n="6607">Touch us on the hips and chin;</l>
                 <l n="6608">Then you'll feel whether we are flesh or not."</l>
-                <l n="6609">The count swore in the name of Saint Peter of Pré Neiron:</l>
-                <l n="6610">"I'll come with you, be it well or ill."</l>
+                <l n="6609">The count swore in the name of Saint Peter of Rome:</l>
+                <!--NOTE Literally: [...] Nero's Field -->
+                <l n="6610">"I'll come to you, be it well or ill."</l>
                 <l n="6611">(Laisse 257) The noble count, without bad intent,</l>
                 <l n="6612">Came to a tree, cut off a branch of it.</l>
                 <l n="6613">He shaped it into a stake with his sharp sword;</l>
@@ -8824,7 +8835,7 @@
                 <l n="7565">I would do it willingly, according to my knowledge.</l>
                 <l n="7566">I am of little value, as you can clearly see;</l>
                 <l n="7567">I can no longer remain; I commend you to God."</l>
-                <l n="7568">At these words, the count was in deep thought;</l>
+                <l n="7568">After he spoke, the count was in deep thought;</l>
                 <l n="7569">He lowered his head, fell prostrate to the ground.</l>
                 <l n="7570">When he raised his head, he saw nothing.</l>
                 <l n="7571">"Holy Mary, what has happened to the young man?</l>
@@ -11769,7 +11780,7 @@
                 <l n="10370">When there the true Master will have to deliver</l>
                 <l n="10371">Judgement—He who suffered anguish</l>
                 <l n="10372">In order to save everyone from the everlasting shadow.</l>
-                <l n="10373">He who receives a favorable [judgement] will have a happy final hour;</l>
+                <l n="10373">He who receives a favorable [judgement] will have a good destiny;</l>
                 <l n="10374">He who doesn't prepare for it, I believe, it will go very badly for him.</l>
                 <l n="10375">His singing means the same as</l>
                 <l n="10376">That of the oriole that laments its little chicks.</l>
