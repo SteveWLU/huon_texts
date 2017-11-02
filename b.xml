@@ -346,7 +346,7 @@
             <l n="133">Del guerier et ferir de brant nu.  </l>
             <l n="134">Par le repois qe nos avons eü  </l>
             <l n="135">M'estoit avis qui l'usage ert p<ex rend="italic">er</ex>du.  </l>
-            <l n="136">Por (ce) voil ge qui un torner ma<ex rend="italic">n</ex>tenu</l>
+            <l n="136">Por (ce) voil ge qui un torner ma<ex rend="italic">n</ex>tenu <note xml:id="b136"/></l>
             <l n="137">Seit quatre jors por avoir aprendu <note xml:id="b136"/>  </l>
             <l n="138">Cil qi en bataille n'avent long ta<ex rend="italic">m</ex>ps feru  </l>
             <l n="139">Si li ferai armer sor le crenu.  </l>
@@ -1206,7 +1206,7 @@
          </lg>
             <lg type="laisse" n="31">
             <head>Laisse 31</head>
-            <l n="790">"<hi rend="blue-initial">H</hi>ue, douç frere," ce dit l'empial,  </l>
+            <l n="790">"<hi rend="blue-initial">H</hi>ue, douç frere," ce dit l'empial,<note xml:id="b790"/>  </l>
             <l n="791">"Ja un pieç de terre ni casal  </l>
             <l n="792">Par force non tenra ja nus, saiçe sa<ex rend="italic">n</ex>z fal,  </l>
             <l n="793">Qar hom moy dit qu'il ert gregno<ex rend="italic">r</ex> regnal,  </l>
@@ -1661,8 +1661,8 @@
                   >ri</ex>st a reme<ex rend="italic">n</ex>ter  </l>
             <l n="1092">Qua<ex rend="italic">n</ex>t ill oit lit Caton de jove<ex rend="italic"
                   >n</ex>cel scoler:  </l>
-           <l n="1093">"<q rend="bold" xml:lang="la"><ex rend="italic">Nil temere yxori</ex></q>, ni croir le dois liger  </l>
-           <l n="1094"><q rend="bold" xml:lang="la"><ex rend="italic">Sepe odit mulier</ex></q> cil qu'a el mari amer."  </l>
+           <l n="1093">"<q rend="bold" xml:lang="la">Nil temere yxori</q>, ni croir le dois liger  </l>
+           <l n="1094"><q rend="bold" xml:lang="la">Sepe odit mulier</q> cil qu'a el mari amer."  </l>
             <l n="1095">Une ire le sorprant; leisa le pieç aler  </l>
             <l n="1096">Si qui el le fist aval co<ex rend="italic">n</ex>tre te<ex rend="italic"
                   >r</ex>re verser  </l>
@@ -1752,7 +1752,7 @@
             <l n="1147">Tot droit vers Ongarie son chemin acolla.  </l>
             <l n="1148">Qua<ex rend="italic">n</ex>t vint en la domain Ynide soy sveilla;  </l>
             <l n="1149">Son sir, qua<ex rend="italic">n</ex>t la non trove, ta<ex rend="italic"
-                  >n</ex>t debatue s'a  </l>
+                  >n</ex>t debatue s'a   <note xml:id="b1149"/> </l>
             <l n="1150">Qu'e a bien par un petit qu'elle no<ex rend="italic">n</ex> s'atua.  </l>
             <l n="1151">Be<ex rend="italic">r</ex>rart li vient a li, si la reconforta,  </l>
             <l n="1152">E Ynide plus en luy d'autre home s'en fia. <note xml:id="b1152"/>  </l>
@@ -2041,8 +2041,7 @@
             <l n="1363">Pois demande congieç. Il l'en va beneïr:  </l>
             <l n="1364">"Damediex seit a toy si le vint a plaisir." </l>
          </lg>
-         <!--LZM stopped here 07 October 2017 -->
-         <!-- <lg type="laisse" n="51">
+          <lg type="laisse" n="51">
             <head>Laisse 51</head>
             <l n="1365"><hi rend="blue-initial">D</hi>a l'apostoille se part le quue<ex
                   rend="italic">n</ex>s Huon; </l>
@@ -2061,8 +2060,8 @@
             <l n="1375">De son afer, a nuls a fet respo<ex rend="italic">n</ex>sion.  </l>
             <l n="1376"><milestone n="10Va" unit="fol."/>Oltre s'en est passé, no<ex rend="italic"
                   >n</ex> fist demorason;  </l>
-            <l n="1377">Tant avoit il herré <ex rend="italic">et</ex> p<ex rend="italic">er</ex>
-               poy <ex rend="italic">et</ex> p<ex rend="italic">er</ex> mon,  </l>
+            <l n="1377">Tant avoit il herré <ex rend="italic">et</ex> p<ex rend="italic">or</ex>
+               poy <ex rend="italic">et</ex> p<ex rend="italic">or</ex> mon,  </l>
             <l n="1378">Entreç fu en Cicillie, ne fi longe stason  </l>
             <l n="1379">Qe de soe enqueste non poit t<ex rend="italic">r</ex>(o)ver nus hon  </l>
             <l n="1380">Que voir le n'aige dit; ai<ex rend="italic">n</ex>ç le tie<ex
@@ -2080,10 +2079,9 @@
             <l n="1387">Reclame soi a Deu, pecheor soi clama;     </l>
             <l n="1388">Bati soe boce, da quant pechieç q'il a,  </l>
             <l n="1389">Non cesse de dir maint oraison q'il sa.  </l>
-           <l n="1390"><q rend="bold" xml:lang="la"><ex rend="italic">Magnificat a</ex><ex rend="italic">n</ex>i<ex rend="italic">m</ex>am D<ex
-                  rend="italic">omi</ex>ne</q> come<ex rend="italic">n</ex>ça,  </l> -->
-           <!-- #LZM: check this line, what's italic and what's not? -->
-<!--
+           <l n="1390"><q rend="bold" xml:lang="la">Magnificat a<ex rend="italic">n</ex>i<ex rend="italic">m</ex>am D<ex
+                  rend="italic">omi</ex>ne</q> come<ex rend="italic">n</ex>ça,  </l>
+           <!-- #LZM: check this line, what's italic and what's not? --a[n]i[m]am D[omi]ne: all in brackets = italics-->
             <l n="1391">Trosq<ex rend="italic">ue</ex>mant en la fin la dit <ex rend="italic"
                   >et</ex> derasna,  </l>
             <l n="1392">Ne por ja nul mesais ni por dan ni leisa  </l>
@@ -2097,16 +2095,14 @@
                en saola;  </l>
             <l n="1397">Por nuls dangie<ex rend="italic">r</ex> ni por ais q'il trova,  </l>
             <l n="1398">Fors qe une foi en le jor non ma<ex rend="italic">n</ex>gia:  </l>
-            <l n="1399">De pein e d'eve vit, autre <ex rend="angle">vi</ex>a<ex rend="italic">n</ex>da n'a, </l> -->
-            <!-- Note: MS: ma[n]da na, however it seems most likely to be an error for "via[n]da na"; cf. line 6181 viande n'a. l. 1574 - vi between angle brackets -->
-<!--
+            <l n="1399">De pein e d'eve vit, autre <ex rend="angle">vi</ex>a<ex rend="italic">n</ex>da n'a, </l>
             <l n="1400">Et herbes a sauvesi<ex rend="italic">n</ex>e amares qu'il trova  </l>
             <l n="1401">Qui li tient la sustance. El cors Yh<ex rend="italic">es</ex>u rova,  </l>
             <l n="1402">Qu'il seit son aiutoire en qual pa<ex rend="italic">r</ex>t ou il va,  </l>
             <l n="1403">Qe non retiegne a mal tot ce qu'il avoa.  </l>
             <l n="1404">Bien soit qe imposible ert, més no<ex rend="italic">n</ex> p<ex
                   rend="italic">er</ex>jure<ex rend="italic">r</ex>a  </l>
-            <l n="1405">Qe non face a ma poisse a ta<ex rend="italic">n</ex>t cu<ex rend="italic"
+            <l n="1405">Qe non face-- a ma poisse-- a ta<ex rend="italic">n</ex>t cu<ex rend="italic"
                   >m</ex> ho<ex rend="italic">m</ex> vivra.  </l>
             <l n="1406">Lor chami<ex rend="italic">n</ex>e ava<ex rend="italic">n</ex>t, <ex
                   rend="italic">et</ex> tant fort il he<ex rend="italic">r</ex>ra,  </l>
@@ -2129,11 +2125,11 @@
                   fierema<ex rend="italic">n</ex> li agree;  </l>
             <l n="1415">Alor il rant me<ex rend="italic">r</ex>ci, da lor feit desevree.  </l>
             <l n="1416">Al droit port ert venu, ni ot feit demoree,  </l>
-            <l n="1417">P<ex rend="italic">er</ex> plus tost esploiter soe vie, en mer entree.
+            <l n="1417">P<ex rend="italic">or</ex> plus tost esploiter soe vie, en mer entree.
                 </l>
             <l n="1418">Une galee trova sor le port, a l'entree,  </l>
-            <l n="1419">Que se voloit partir <ex rend="italic">et</ex> aler en robee No punct at
-               end:  </l>
+            <l n="1419">Que se voloit partir <ex rend="italic">et</ex> aler en robee
+                </l>
             <l n="1420">Si cum a costumeç—il furent mant fiee  </l>
             <l n="1421">D'autre non vivent fors de mal atrovee.  </l>
             <l n="1422">Qua<ex rend="italic">n</ex>t ont le cons veu venir pa<ex rend="italic"
@@ -2271,6 +2267,8 @@
                   rend="italic">n</ex>t;  </l>
             <l n="1521">Més ja de le lor estre ja pas no<ex rend="italic">n</ex> mostrere<ex
                   rend="italic">n</ex>t.  </l>
+  <!--
+            <!-- LZM stopped here 1 Nov 2017        
          </lg>
          <lg type="laisse" n="56">
             <head>Laisse 56</head>
